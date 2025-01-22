@@ -11,12 +11,10 @@
             "id": "a06c2a46d7c16e54",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Linear Algebra/Section 1/Figures/Figure 1.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Figure 1"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -85,10 +83,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linear Algebra/Section 1/Figures/Figure 1.md"
+                "file": "Excalidraw/Drawing 2025-01-22 01.06.34.excalidraw.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Figure 1"
+              "title": "Outline of Drawing 2025-01-22 01.06.34.excalidraw"
             }
           }
         ]
@@ -183,10 +181,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a06c2a46d7c16e54",
+  "active": "938004a51dc2fa10",
   "lastOpenFiles": [
-    "Linear Algebra/Section 1/Section 1.1.md",
     "Linear Algebra/Section 1/Figures/Figure 1.md",
+    "Excalidraw/Drawing 2025-01-22 01.06.34.excalidraw.md",
+    "Excalidraw",
+    "Linear Algebra/Section 1/Section 1.1.md",
     "Linear Algebra/Section 1/Figures/Figure 6.md",
     "Linear Algebra/Section 1/Figures/Figure 5.md",
     "Linear Algebra/Section 1/Figures/Figure 4.md",
@@ -215,12 +215,10 @@
     "Film/Mise-en-scene and Cinematography Analysis.md",
     "Linear Algebra 1600/README.md",
     "MIT/PRACTICE QUIZ 2.md",
-    "MIT/Midterm Practice Questions and Answers.md",
     "Linear Algebra 1600",
     "Discord",
     "School/Data Science",
     "School Work 2024-2025/Linear Algebra/Section 1/Figures",
-    "School Work 2024-2025/Linear Algebra/Section 1",
     "School/Linear Algebra/Untitled.canvas",
     "5d3cac07-8be9-4c66-8329-dead2a7a38ff-ezgif.com-webp-to-png-converter.png",
     "7a1f6623-dc73-4d31-b8b4-ad8635f41b54-ezgif.com-webp-to-png-converter.png",
