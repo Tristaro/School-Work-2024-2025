@@ -13,10 +13,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Linear Algebra/Section 1/Figures/Figure 6.md"
+                "file": "Linear Algebra/Section 1/Figures/Figure 1.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Figure 6"
+              "title": "Figure 1"
             }
           }
         ]
@@ -85,10 +85,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linear Algebra/Section 1/Figures/Figure 6.md"
+                "file": "Linear Algebra/Section 1/Figures/Figure 1.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Figure 6"
+              "title": "Outline of Figure 1"
             }
           }
         ]
@@ -185,12 +185,13 @@
   },
   "active": "a06c2a46d7c16e54",
   "lastOpenFiles": [
+    "Linear Algebra/Section 1/Section 1.1.md",
+    "Linear Algebra/Section 1/Figures/Figure 1.md",
+    "Linear Algebra/Section 1/Figures/Figure 6.md",
     "Linear Algebra/Section 1/Figures/Figure 5.md",
     "Linear Algebra/Section 1/Figures/Figure 4.md",
     "Linear Algebra/Section 1/Figures/Figure 3.md",
-    "Linear Algebra/Section 1/Figures/Figure 1.md",
     "Linear Algebra/Section 1/Figures/Figure 2.md",
-    "Linear Algebra/Section 1/Section 1.1.md",
     "Linear Algebra/Section 1/Section 1.1.pdf",
     "README.md",
     "Linear Algebra/README.md",
@@ -215,7 +216,6 @@
     "Linear Algebra 1600/README.md",
     "MIT/PRACTICE QUIZ 2.md",
     "MIT/Midterm Practice Questions and Answers.md",
-    "Film/Mise-en-scene and Cinematography Analysis Notes.md",
     "Linear Algebra 1600",
     "Discord",
     "School/Data Science",
