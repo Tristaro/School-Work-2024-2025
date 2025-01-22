@@ -5,4 +5,4 @@ A collection of notes, practice problems, and resources for all my classes durin
 ## What's Included
 
 - **.obsidian**: Configuration files for my Obsidian workspace, including plugins and settings.
-- **Templates**: Predefined templates for the Templater plugin to streamline note-taking and organization.
+- Linear Algebra
