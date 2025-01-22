@@ -11,10 +11,12 @@
             "id": "a06c2a46d7c16e54",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-01-22 01.08.36.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-01-22 01.08.36.excalidraw"
             }
           }
         ]
@@ -83,10 +85,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2025-01-22 01.06.34.excalidraw.md"
+                "file": "Excalidraw/Drawing 2025-01-22 01.08.36.excalidraw.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Drawing 2025-01-22 01.06.34.excalidraw"
+              "title": "Outline of Drawing 2025-01-22 01.08.36.excalidraw"
             }
           }
         ]
@@ -181,10 +183,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "938004a51dc2fa10",
+  "active": "a06c2a46d7c16e54",
   "lastOpenFiles": [
-    "Linear Algebra/Section 1/Figures/Figure 1.md",
     "Excalidraw/Drawing 2025-01-22 01.06.34.excalidraw.md",
+    "Excalidraw/Drawing 2025-01-22 01.08.36.excalidraw.md",
+    "Linear Algebra/Section 1/Figures/Figure 1.md",
     "Excalidraw",
     "Linear Algebra/Section 1/Section 1.1.md",
     "Linear Algebra/Section 1/Figures/Figure 6.md",
@@ -214,7 +217,6 @@
     "School Work 2024-2025/Linear Algebra/Section 1/Figures/Figure 5.md",
     "Film/Mise-en-scene and Cinematography Analysis.md",
     "Linear Algebra 1600/README.md",
-    "MIT/PRACTICE QUIZ 2.md",
     "Linear Algebra 1600",
     "Discord",
     "School/Data Science",
