@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Linear Algebra/README.md",
                 "mode": "source",
                 "source": false
               },
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Linear Algebra/README.md"
               },
               "icon": "lucide-list",
               "title": "Outline of README"
@@ -187,10 +187,11 @@
   },
   "active": "a06c2a46d7c16e54",
   "lastOpenFiles": [
-    "Linear Algebra/Section 1/README.md",
-    "Linear Algebra/README.md",
-    "README.md",
     "Untitled.md",
+    "Linear Algebra/README.md",
+    "Templates/SubScript.md",
+    "README.md",
+    "Linear Algebra/Section 1/README.md",
     "Linear Algebra/Section 1/Section 1.4.md",
     "Excalidraw/Drawing 2025-01-22 01.08.36.excalidraw.md",
     "Linear Algebra/Section 1/Section 1.1.md",
@@ -214,7 +215,6 @@
     "School Work 2024-2025/Linear Algebra/Section 1/Section 1.3.md",
     "School Work 2024-2025/Linear Algebra/Section 1/Section 1.2.md",
     "School Work 2024-2025/Linear Algebra",
-    "Templates/SubScript.md",
     "School Work 2024-2025",
     "Linear Algebra/Linear Algebra.md",
     "Templates/SuperScript.md",
