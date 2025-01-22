@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linear Algebra/Section 1/README.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linear Algebra/Section 1/README.md"
+                "file": "README.md"
               },
               "icon": "lucide-list",
               "title": "Outline of README"
@@ -187,6 +187,7 @@
   },
   "active": "a06c2a46d7c16e54",
   "lastOpenFiles": [
+    "Linear Algebra/Section 1/README.md",
     "Linear Algebra/README.md",
     "Untitled.md",
     "Linear Algebra/Section 1/Section 1.4.md",
@@ -218,7 +219,6 @@
     "Linear Algebra/Linear Algebra.md",
     "Templates/SuperScript.md",
     "School Work 2024-2025/Linear Algebra/Section 1/Figures/Figure 5.md",
-    "Film/Mise-en-scene and Cinematography Analysis.md",
     "Linear Algebra 1600",
     "Discord",
     "School/Data Science",
