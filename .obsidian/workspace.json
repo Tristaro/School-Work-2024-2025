@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linear Algebra/README.md",
+                "file": "Templates/SubScript.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "SubScript"
             }
           }
         ]
@@ -87,10 +87,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linear Algebra/README.md"
+                "file": "Templates/SubScript.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of SubScript"
             }
           }
         ]
@@ -187,8 +187,8 @@
   },
   "active": "a06c2a46d7c16e54",
   "lastOpenFiles": [
-    "Untitled.md",
     "Linear Algebra/README.md",
+    "Untitled.md",
     "Templates/SubScript.md",
     "README.md",
     "Linear Algebra/Section 1/README.md",
