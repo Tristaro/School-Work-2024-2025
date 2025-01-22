@@ -5,4 +5,4 @@ A collection of notes, practice problems, and resources for all my classes durin
 ## What's Included
 
 - **.obsidian**: Configuration files for my Obsidian workspace, including plugins and settings.
-- Linear Algebra
+- **Linear Algebra**: Notes, practice problems, and other materials related to my Linear Algebra course.
