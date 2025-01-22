@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linear Algebra/README.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linear Algebra/README.md"
+                "file": "README.md"
               },
               "icon": "lucide-list",
               "title": "Outline of README"
@@ -185,8 +185,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "938004a51dc2fa10",
+  "active": "a06c2a46d7c16e54",
   "lastOpenFiles": [
+    "Linear Algebra/README.md",
     "README.md",
     "Untitled.md",
     "Tokens.txt",
@@ -219,7 +220,6 @@
     "School/Data Science/2025-01-07.md",
     "School/Data Science",
     "School/Linear Algebra/Section 1/Untitled.md",
-    "School Work 2024-2025/Linear Algebra/Section 1/Figures/Figure 6.md",
     "School Work 2024-2025/Linear Algebra/Section 1/Figures",
     "School Work 2024-2025/Linear Algebra/Section 1",
     "School Work 2024-2025/Linear Algebra",
