@@ -1,6 +1,5 @@
 [
   "floating-toc",
-  "templater-obsidian",
   "obsidian-style-settings",
   "dataview",
   "automatic-table-of-contents",
@@ -13,5 +12,6 @@
   "obsidian-linter",
   "cmenu-plugin",
   "obsidian-git",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "templater-obsidian"
 ]
