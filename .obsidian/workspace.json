@@ -11,12 +11,10 @@
             "id": "a06c2a46d7c16e54",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Linear Algebra/Section 1/Figures/Figure 1.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Figure 1"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -85,10 +83,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linear Algebra/Section 1/Figures/Figure 1.md"
+                "file": "Excalidraw/Drawing 2025-01-22 01.08.36.excalidraw.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Figure 1"
+              "title": "Outline of Drawing 2025-01-22 01.08.36.excalidraw"
             }
           }
         ]
@@ -183,13 +181,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a06c2a46d7c16e54",
+  "active": "938004a51dc2fa10",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2025-01-22 01.08.36.excalidraw.md",
+    "Linear Algebra/Section 1/Section 1.1.md",
     "Linear Algebra/Section 1/Figures/Figure 1.md",
+    "Excalidraw/Drawing 2025-01-22 01.08.36.excalidraw.md",
     "Excalidraw/Drawing 2025-01-22 01.06.34.excalidraw.md",
     "Excalidraw",
-    "Linear Algebra/Section 1/Section 1.1.md",
     "Linear Algebra/Section 1/Figures/Figure 6.md",
     "Linear Algebra/Section 1/Figures/Figure 5.md",
     "Linear Algebra/Section 1/Figures/Figure 4.md",
