@@ -11,12 +11,14 @@
             "id": "a06c2a46d7c16e54",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Linear Algebra/Section 1/Figures/Figure 2.md"
+                "file": "Linear Algebra/Section 1/Section 1.1.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Figure 2"
+              "icon": "lucide-file",
+              "title": "Section 1.1"
             }
           }
         ]
@@ -85,10 +87,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linear Algebra/Section 1/Figures/Figure 2.md"
+                "file": "Linear Algebra/Section 1/Section 1.1.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Figure 2"
+              "title": "Outline of Section 1.1"
             }
           }
         ]
@@ -185,6 +187,7 @@
   },
   "active": "a06c2a46d7c16e54",
   "lastOpenFiles": [
+    "Linear Algebra/Section 1/Figures/Figure 2.md",
     "README.md",
     "Linear Algebra/README.md",
     "Untitled.md",
@@ -217,7 +220,6 @@
     "Discord",
     "School/Data Science/2025-01-07.md",
     "School/Data Science",
-    "School/Linear Algebra/Section 1/Untitled.md",
     "School Work 2024-2025/Linear Algebra/Section 1/Figures",
     "School Work 2024-2025/Linear Algebra/Section 1",
     "School Work 2024-2025/Linear Algebra",
