@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linear Algebra/README.md",
+                "file": "Linear Algebra/Section 1/README.md",
                 "mode": "source",
                 "source": false
               },
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linear Algebra/README.md"
+                "file": "Linear Algebra/Section 1/README.md"
               },
               "icon": "lucide-list",
               "title": "Outline of README"
@@ -187,8 +187,8 @@
   },
   "active": "a06c2a46d7c16e54",
   "lastOpenFiles": [
-    "Untitled.md",
     "Linear Algebra/README.md",
+    "Untitled.md",
     "Linear Algebra/Section 1/Section 1.4.md",
     "Excalidraw/Drawing 2025-01-22 01.08.36.excalidraw.md",
     "Linear Algebra/Section 1/Section 1.1.md",
