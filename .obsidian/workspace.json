@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Linear Algebra/README.md",
                 "mode": "source",
                 "source": false
               },
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Linear Algebra/README.md"
               },
               "icon": "lucide-list",
               "title": "Outline of README"
@@ -187,6 +187,8 @@
   },
   "active": "938004a51dc2fa10",
   "lastOpenFiles": [
+    "README.md",
+    "Untitled.md",
     "Tokens.txt",
     "School Work 2024-2025/Linear Algebra/Section 1/README.md",
     "School Work 2024-2025/Linear Algebra/Section 1/Section 1.1.md",
@@ -199,7 +201,6 @@
     "School Work 2024-2025/Linear Algebra/Section 1/Section 1.2.md",
     "School Work 2024-2025/Linear Algebra",
     "Templates/SubScript.md",
-    "Untitled.md",
     "School Work 2024-2025",
     "Linear Algebra/Linear Algebra.md",
     "Templates/SuperScript.md",
@@ -222,7 +223,6 @@
     "School Work 2024-2025/Linear Algebra/Section 1/Figures",
     "School Work 2024-2025/Linear Algebra/Section 1",
     "School Work 2024-2025/Linear Algebra",
-    "School Work 2024-2025/Linear Algebra/Section 1",
     "School/Linear Algebra/Untitled.canvas",
     "5d3cac07-8be9-4c66-8329-dead2a7a38ff-ezgif.com-webp-to-png-converter.png",
     "7a1f6623-dc73-4d31-b8b4-ad8635f41b54-ezgif.com-webp-to-png-converter.png",
