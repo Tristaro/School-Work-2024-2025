@@ -1,4 +1,24 @@
+# Sample Quiz
 
+## 1. Which modern concept is often compared to global commons?
+**Answer:** **b) The atmosphere and oceans**  
+*From the study guide: "The atmosphere and oceans have been conceived as global commons because they are resources upon which humanity depends but which have no clear ownership."*
+
+## 2. The "just-in-time" production system primarily aims to:
+**Answer:** **b) Reduce waste by delivering parts as needed**  
+*Just-in-time production focuses on efficiency by minimizing waste and only supplying materials when necessary.*
+
+## 3. A key control mechanism in McDonaldized systems is:
+**Answer:** **b) Training employees to follow standardized procedures**  
+*From the study guide: "Workers in McDonaldized systems function efficiently by following the steps in a predesigned, often well-choreographed, process."*
+
+## 4. What ethical dilemma is highlighted by capitalism's dark side?
+**Answer:** **a) The exploitation of workers and natural resources**  
+*From the study guide: "In a completely free market, avaricious capitalists can establish monopolies or collude against their workforces."*
+
+
+
+# OKJA (2017) - Directed by Bong Joon-ho
 
 ## **Plot Summary**
 The film is about a young girl, Mija, who raised a genetically modified "super pig" (the titular Okja). When Okja is taken to the United States, Mija embarks on a mission to rescue her from mistreatment at the hands of the meat industry.
@@ -33,3 +53,6 @@ The film is about a young girl, Mija, who raised a genetically modified "super p
 - **Bureaucracy** – The Mirando Corporation is structured hierarchically, with strict control over production, marketing, and operations.
 - **‘The one best way’** – The company presents genetically modified super pigs as the ultimate food solution, disregarding ethical alternatives.
 - **Irrationality and the ‘Iron Cage’** – The meat industry’s pursuit of efficiency leads to cruelty and environmental destruction, trapping both workers and consumers in an inhumane system.
+
+
+

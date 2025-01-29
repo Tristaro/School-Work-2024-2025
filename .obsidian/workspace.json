@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MediaCom/OKJA (2017) - Directed by Bong Joon-ho.md",
+                "file": "MediaCom/Quiz 3 Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "OKJA (2017) - Directed by Bong Joon-ho"
+              "title": "Quiz 3 Notes"
             }
           }
         ]
@@ -87,10 +87,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MediaCom/OKJA (2017) - Directed by Bong Joon-ho.md"
+                "file": "MediaCom/Quiz 3 Notes.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of OKJA (2017) - Directed by Bong Joon-ho"
+              "title": "Outline of Quiz 3 Notes"
             }
           }
         ]
@@ -187,7 +187,7 @@
   "active": "a06c2a46d7c16e54",
   "lastOpenFiles": [
     "README.md",
-    "MediaCom/OKJA (2017) - Directed by Bong Joon-ho.md",
+    "MediaCom/Quiz 3 Notes.md",
     "MediaCom",
     "Linear Algebra/README.md",
     "Templates/SubScript.md",
