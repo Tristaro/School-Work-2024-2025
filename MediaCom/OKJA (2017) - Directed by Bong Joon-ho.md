@@ -1,4 +1,4 @@
-# OKJA (2017) - Directed by Bong Joon-ho
+
 
 ## **Plot Summary**
 The film is about a young girl, Mija, who raised a genetically modified "super pig" (the titular Okja). When Okja is taken to the United States, Mija embarks on a mission to rescue her from mistreatment at the hands of the meat industry.
