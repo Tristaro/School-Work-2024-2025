@@ -16,6 +16,10 @@ Sample Quiz
     _(From the study guide: "In a completely free market, avaricious capitalists can establish monopolies or collude against their workforces.")_
     
 
+
+
+OKJA, (2017) dir. Bong Joon-ho • Characters: Mija, Lucy Mirando, Nancy Mirando, Jay, Johnny Wilcox, Hee Bong [Mija's grandfather], • What’s the very basic story in one paragraph? The film is about a young girl who raised a genetically modi fied "super pig" (the titular Okja), and, after she is taken to the United States, goes on a mission to rescue her from mistreatment at the hands of the meat industry.
+
 - **Use value** – Okja’s use value to Mija is as a beloved companion and family member, while the Mirando Corporation sees Okja’s use value as a source of meat.
     
 - **Exchange value** – Okja is given an exchange value when the Mirando Corporation commodifies her, measuring her worth in financial terms rather than emotional or ethical considerations.
