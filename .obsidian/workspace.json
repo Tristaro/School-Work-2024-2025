@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "MediaCom/Quiz 3 Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Quiz 3 Notes"
             }
           }
         ]
@@ -87,10 +87,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "MediaCom/Quiz 3 Notes.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of Quiz 3 Notes"
             }
           }
         ]
@@ -186,10 +186,12 @@
   },
   "active": "a06c2a46d7c16e54",
   "lastOpenFiles": [
+    "README.md",
+    "MediaCom/Quiz 3 Notes.md",
+    "MediaCom",
     "Linear Algebra/README.md",
     "Templates/SubScript.md",
     "Untitled.md",
-    "README.md",
     "Linear Algebra/Section 1/README.md",
     "Linear Algebra/Section 1/Section 1.4.md",
     "Excalidraw/Drawing 2025-01-22 01.08.36.excalidraw.md",
@@ -217,11 +219,9 @@
     "School Work 2024-2025",
     "Linear Algebra/Linear Algebra.md",
     "Templates/SuperScript.md",
-    "School Work 2024-2025/Linear Algebra/Section 1/Figures/Figure 5.md",
     "Linear Algebra 1600",
     "Discord",
     "School/Data Science",
-    "School Work 2024-2025/Linear Algebra/Section 1/Figures",
     "School/Linear Algebra/Untitled.canvas",
     "5d3cac07-8be9-4c66-8329-dead2a7a38ff-ezgif.com-webp-to-png-converter.png",
     "7a1f6623-dc73-4d31-b8b4-ad8635f41b54-ezgif.com-webp-to-png-converter.png",
