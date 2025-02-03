@@ -1,5 +1,13 @@
 # Part 1
 
+![[Figure (1).jpg]]
+![[Figure (2).jpg]]
+![[Figure (3).jpg]]
+![[Figure (4).jpg]]
+![[Figure (5).jpg]]
+![[Figure (6).jpg]]
+![[Figure (7).jpg]]
+![[Figure (8).jpg]]
 
 # Part 2
 
