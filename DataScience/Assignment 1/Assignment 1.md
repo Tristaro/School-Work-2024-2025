@@ -1,19 +1,5 @@
 # Part 1
 
-![Figure 1](Data%20Science/Assignment%201/Figures/Figure%(1).png)
-![Figure 2](Data%20Science/Assignment%201/Figures/Figure2.png)
-![Figure 3](Data%20Science/Assignment%201/Figures/Figure3.png)
-![Figure 4](Data%20Science/Assignment%201/Figures/Figure4.png)
-![Figure 5](Data%20Science/Assignment%201/Figures/Figure5.png)
-![Figure 6](Data%20Science/Assignment%201/Figures/Figure6.png)
-![Figure 7](Data%20Science/Assignment%201/Figures/Figure7.png)
-![Figure 8](Data%20Science/Assignment%201/Figures/Figure8.png)
-![Figure 9](Data%20Science/Assignment%201/Figures/Figure9.png)
-![Figure 10](Data%20Science/Assignment%201/Figures/Figure10.png)
-![Figure 11](Data%20Science/Assignment%201/Figures/Figure11.png)
-![Figure 12](Data%20Science/Assignment%201/Figures/Figure12.png)
-![Figure 13](Data%20Science/Assignment%201/Figures/Figure13.png)
-
 
 # Part 2
 
