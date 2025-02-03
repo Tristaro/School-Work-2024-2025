@@ -11,14 +11,12 @@
             "id": "987ec4d2c4811ef1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "DataScience/Assignment 1/Assignment 1.md",
-                "mode": "source",
-                "source": false
+                "file": "DataScience/Assignment 1/Figures/Figure (1).jpg"
               },
-              "icon": "lucide-file",
-              "title": "Assignment 1"
+              "icon": "lucide-image",
+              "title": "Figure (1)"
             }
           }
         ]
@@ -88,13 +86,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataScience/Assignment 1/Assignment 1.md",
+                "file": "DataScience/Assignment 1/Figures/Figure (1).jpg",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Assignment 1"
+              "title": "Outline of Figure (1)"
             }
           }
         ]
@@ -190,8 +188,8 @@
   },
   "active": "987ec4d2c4811ef1",
   "lastOpenFiles": [
-    "DataScience/Assignment 1/Figures/Figure (1).jpg",
     "DataScience/Assignment 1/Assignment 1.md",
+    "DataScience/Assignment 1/Figures/Figure (1).jpg",
     "DataScience/Assignment 1/Figures/Figure (13).jpg",
     "DataScience/Assignment 1/Figures/Figure (12).jpg",
     "DataScience/Assignment 1/Figures/Figure (11).jpg",
@@ -201,7 +199,6 @@
     "DataScience/Assignment 1/Figures/Figure (7).jpg",
     "DataScience/Assignment 1/Figures/Figure (6).jpg",
     "DataScience/Assignment 1/Figures/Figure (5).jpg",
-    "DataScience/Assignment 1/Figures/Figure (4).jpg",
     "DataScience/Assignment 1/Figures",
     "DataScience/Assignment 1",
     "DataScience",
