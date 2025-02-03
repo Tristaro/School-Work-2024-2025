@@ -39,12 +39,14 @@
             "id": "987ec4d2c4811ef1",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.4"
+                "file": "Data Science/Assignment 1.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.4"
+              "icon": "lucide-file",
+              "title": "Assignment 1"
             }
           }
         ],
@@ -115,12 +117,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Data Science/Assignment 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Assignment 1"
             }
           }
         ]
