@@ -11,12 +11,14 @@
             "id": "987ec4d2c4811ef1",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "DataScience/Assignment 1/Figures/Figure (1).jpg"
+                "file": "DataScience/Assignment 1/Assignment 1.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Figure (1)"
+              "icon": "lucide-file",
+              "title": "Assignment 1"
             }
           }
         ]
@@ -86,13 +88,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataScience/Assignment 1/Figures/Figure (1).jpg",
+                "file": "DataScience/Assignment 1/Assignment 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Figure (1)"
+              "title": "Outline of Assignment 1"
             }
           }
         ]
@@ -188,7 +190,11 @@
   },
   "active": "987ec4d2c4811ef1",
   "lastOpenFiles": [
+    "Data Science/Assignment 1/Figures/Figure()..md",
     "DataScience/Assignment 1/Assignment 1.md",
+    "Data Science/Assignment 1/Figures",
+    "Data Science/Assignment 1",
+    "Data Science",
     "DataScience/Assignment 1/Figures/Figure (1).jpg",
     "DataScience/Assignment 1/Figures/Figure (13).jpg",
     "DataScience/Assignment 1/Figures/Figure (12).jpg",
@@ -210,7 +216,6 @@
     "Linear Algebra/Section 1/README.md",
     "Data Science/Figures",
     "MediaCom/Quiz 3 Notes.md",
-    "Data Science",
     "README.md",
     "MediaCom",
     "Linear Algebra/README.md",
@@ -225,12 +230,10 @@
     "Linear Algebra/Section 1/Figures/Figure 3.md",
     "Linear Algebra/Section 1/Figures/Figure 2.md",
     "Linear Algebra/Section 1/Section 1.1.pdf",
-    "Tokens.txt",
     "School Work 2024-2025/Linear Algebra/Section 1/README.md",
     "School Work 2024-2025/Linear Algebra/Section 1/Section 1.1.md",
     "School Work 2024-2025/Linear Algebra/README.md",
     "School Work 2024-2025/README.md",
-    "School Work 2024-2025/Linear Algebra/Section 1/Section 1.1.pdf",
     "School Work 2024-2025/Linear Algebra/Section 1/Figures/Figure 1.md",
     "School Work 2024-2025/Linear Algebra/Section 1/Section 1.4.md",
     "School/Linear Algebra/Untitled.canvas"
