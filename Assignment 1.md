@@ -25,7 +25,6 @@ plt.title("Distribution of Soft Drink Purchases")
 # Display the pie chart
 plt.show()
 ```
-
 ## Question 6
 
 ### (a) Bar Chart for Age Group 25-34
@@ -52,3 +51,4 @@ plt.title("Cell Phone Ownership (Age 25-34)")
 
 # Display the bar chart
 plt.show()
+```
