@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Assignment 1"
             }
+          },
+          {
+            "id": "a219415939b8eb6f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-02-02 19.16.02.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-02-02 19.16.02.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,10 +100,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Science/Assignment 1.md"
+                "file": "Excalidraw/Drawing 2025-02-02 19.16.02.excalidraw.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Assignment 1"
+              "title": "Outline of Drawing 2025-02-02 19.16.02.excalidraw"
             }
           }
         ]
@@ -184,10 +197,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a06c2a46d7c16e54",
+  "active": "a219415939b8eb6f",
   "lastOpenFiles": [
-    "MediaCom/Quiz 3 Notes.md",
     "Data Science/Assignment 1.md",
+    "Excalidraw/Drawing 2025-02-02 19.16.02.excalidraw.md",
+    "MediaCom/Quiz 3 Notes.md",
     "Data Science",
     "README.md",
     "MediaCom",
@@ -219,7 +233,6 @@
     "School Work 2024-2025/Linear Algebra/Section 1/Section 1.2.md",
     "School Work 2024-2025/Linear Algebra",
     "School Work 2024-2025",
-    "Linear Algebra/Linear Algebra.md",
     "Linear Algebra 1600",
     "Discord",
     "School/Linear Algebra/Untitled.canvas",
