@@ -1,7 +1,6 @@
 # Part 2
 
 ## Question 5
-
 ### (a) Can we use a pie chart?
 Yes, you can use a pie chart to show the data because the data represents proportions of a whole (total purchases sum to 100%).  
 A pie chart is appropriate for showing how each category contributes to the total.
@@ -26,12 +25,8 @@ plt.title("Distribution of Soft Drink Purchases")
 plt.show()
 ```
 ## Question 6
-
-### (a) Bar Chart for Age Group 25-34
-The bar chart below represents **cell phone ownership** for the **25-34 age group**.
-
 ```python
-import numpy as np
+[import numpy as np
 import matplotlib.pyplot as plt
 
 # Given smartphone ownership data
@@ -50,5 +45,52 @@ plt.ylabel("Percentage")
 plt.title("Cell Phone Ownership (Age 25-34)")
 
 # Display the bar chart
+plt.show()](<import numpy as np
+import matplotlib.pyplot as plt
+
+# Given smartphone ownership data
+age_groups = ["18-24", "25-34", "35-44", "45-54", "55-64", "65+"]
+smartphone = [55, 70, 67, 32, 25, 18]
+other_phone = [30, 26, 36, 32, 51, 24]
+no_phone = [2, 5, 7, 11, 17, 53]
+
+# Part (a): Bar Chart for Age Group 25-34
+plt.figure(figsize=(6,4))
+plt.bar(["Smartphone", "Other Phone", "No Phone"], [70, 26, 5], color=['blue', 'orange', 'gray'])
+
+# Labels and title
+plt.xlabel("Phone Type")
+plt.ylabel("Percentage")
+plt.title("Cell Phone Ownership (Age 25-34)")
+
+# Display the bar chart
 plt.show()
+
+# Part (b): Bidimensional Bar Chart for All Age Groups
+x = np.arange(len(age_groups))  # X positions
+
+plt.figure(figsize=(8,5))
+plt.bar(x - 0.2, smartphone, width=0.2, label="Smartphone", color="blue")
+plt.bar(x, other_phone, width=0.2, label="Other Phone", color="orange")
+plt.bar(x + 0.2, no_phone, width=0.2, label="No Phone", color="gray")
+
+# Labels and title
+plt.xticks(x, age_groups)
+plt.xlabel("Age Group")
+plt.ylabel("Percentage")
+plt.title("Cell Phone Ownership by Age Group")
+plt.legend()
+
+# Display the bar chart
+plt.show()
+
+# Part (c): Observations
+'''
+- Younger groups (18-44) have high smartphone ownership (55-70%).
+- Older groups (55+) have lower smartphone use and higher "Other Phone" or "No Phone" categories.
+- The 65+ group has the highest "No Phone" percentage (53%).
+- Overall, smartphone usage declines with age.
+'''
+
+print("Younger people use more smartphones, while older age groups have fewer or no cell phones.")>)
 ```
