@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Assignment 1.md",
+                "file": "DataScience/Assignment 1/Assignment 1.md",
                 "mode": "source",
                 "source": false
               },
@@ -88,7 +88,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Assignment 1.md",
+                "file": "DataScience/Assignment 1/Assignment 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -190,7 +190,19 @@
   },
   "active": "987ec4d2c4811ef1",
   "lastOpenFiles": [
-    "Assignment 1.md",
+    "DataScience/Assignment 1/Figures/Figure (1).jpg",
+    "DataScience/Assignment 1/Assignment 1.md",
+    "DataScience/Assignment 1/Figures/Figure (13).jpg",
+    "DataScience/Assignment 1/Figures/Figure (12).jpg",
+    "DataScience/Assignment 1/Figures/Figure (11).jpg",
+    "DataScience/Assignment 1/Figures/Figure (10).jpg",
+    "DataScience/Assignment 1/Figures/Figure (9).jpg",
+    "DataScience/Assignment 1/Figures/Figure (8).jpg",
+    "DataScience/Assignment 1/Figures/Figure (7).jpg",
+    "DataScience/Assignment 1/Figures/Figure (6).jpg",
+    "DataScience/Assignment 1/Figures/Figure (5).jpg",
+    "DataScience/Assignment 1/Figures/Figure (4).jpg",
+    "DataScience/Assignment 1/Figures",
     "DataScience/Assignment 1",
     "DataScience",
     "Data Science/Figures/Question 1.md",
@@ -224,12 +236,6 @@
     "School Work 2024-2025/Linear Algebra/Section 1/Section 1.1.pdf",
     "School Work 2024-2025/Linear Algebra/Section 1/Figures/Figure 1.md",
     "School Work 2024-2025/Linear Algebra/Section 1/Section 1.4.md",
-    "School Work 2024-2025/Linear Algebra",
-    "School/Linear Algebra/Untitled.canvas",
-    "5d3cac07-8be9-4c66-8329-dead2a7a38ff-ezgif.com-webp-to-png-converter.png",
-    "7a1f6623-dc73-4d31-b8b4-ad8635f41b54-ezgif.com-webp-to-png-converter.png",
-    "DALLE2024-11-2415.26.33-AprimalpolarbearnamedPolarisinafrozentundralandscapeunderatwilightskywiththeNorthStarshiningbrightlyabove.Thebearhaslongunk-ezgif.com-webp-to-png-converter.png",
-    "DALLE2024-11-2415.19.57-AtoweringprimalpolarbearinafrozentundralandscapeunderatwilightskywiththeNorthStarshiningbrightlyabove.ThebearnamedPolarisha-ezgif.com-webp-to-png-converter.png",
-    "DALLE2024-11-2415.22.10-AprimalpolarbearnamedPolarisinafrozentundralandscapeunderatwilightskywiththeNorthStarshiningbrightlyabove.Thebearhaslongunk-ezgif.com-webp-to-png-converter.png"
+    "School/Linear Algebra/Untitled.canvas"
   ]
 }
