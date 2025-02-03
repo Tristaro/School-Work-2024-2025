@@ -1,6 +1,6 @@
 # Part 1
 
-![Figure 1](Data%20Science/Assignment%201/Figures/Figure().)png)
+![Figure 1](Data%20Science/Assignment%201/Figures/Figure%(1).png)
 ![Figure 2](Data%20Science/Assignment%201/Figures/Figure2.png)
 ![Figure 3](Data%20Science/Assignment%201/Figures/Figure3.png)
 ![Figure 4](Data%20Science/Assignment%201/Figures/Figure4.png)
