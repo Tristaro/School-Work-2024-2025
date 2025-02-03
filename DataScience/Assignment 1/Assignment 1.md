@@ -8,6 +8,12 @@
 ![[Figure (6).jpg]]
 ![[Figure (7).jpg]]
 ![[Figure (8).jpg]]
+![[Figure (9).jpg]]
+![[Figure (10).jpg]]
+![[Figure (11).jpg]]
+![[Figure (12).jpg]]
+![[Figure (13).jpg]]
+
 
 # Part 2
 
