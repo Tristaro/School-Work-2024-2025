@@ -39,12 +39,10 @@
             "id": "987ec4d2c4811ef1",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Data Science/Figures/Question 1.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Question 1"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ],
@@ -115,13 +113,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Science/Figures/Question 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Question 1"
+              "title": "Outline"
             }
           }
         ]
@@ -217,8 +214,8 @@
   },
   "active": "987ec4d2c4811ef1",
   "lastOpenFiles": [
-    "Data Science/Assignment 1.md",
     "Data Science/Figures/Question 1.md",
+    "Data Science/Assignment 1.md",
     "Excalidraw/Drawing 2025-02-02 19.36.47.excalidraw.md",
     "Linear Algebra/Section 1/Section 1.1.md",
     "Linear Algebra/Section 1/Figures/Figure 1.md",
