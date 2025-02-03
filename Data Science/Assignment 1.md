@@ -1,1 +1,1 @@
-![[Question 1]]
+![[Question 1|100%x400]]

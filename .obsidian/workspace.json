@@ -25,16 +25,30 @@
             "id": "a219415939b8eb6f",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Data Science/Figures/Question 1.md"
+                "file": "Data Science/Assignment 1.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Question 1"
+              "icon": "lucide-file",
+              "title": "Assignment 1"
+            }
+          },
+          {
+            "id": "987ec4d2c4811ef1",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.4"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -54,7 +68,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -100,10 +115,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Science/Figures/Question 1.md"
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Question 1"
+              "title": "Outline"
             }
           }
         ]
@@ -197,13 +214,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a219415939b8eb6f",
+  "active": "987ec4d2c4811ef1",
   "lastOpenFiles": [
-    "Data Science/Assignment 1.md",
     "Data Science/Figures/Question 1.md",
+    "Linear Algebra/Section 1/Section 1.1.md",
+    "Data Science/Assignment 1.md",
     "Linear Algebra/Section 1/Figures/Figure 1.md",
     "Linear Algebra/Section 1/README.md",
-    "Linear Algebra/Section 1/Section 1.1.md",
     "Data Science/Figures",
     "MediaCom/Quiz 3 Notes.md",
     "Data Science",
