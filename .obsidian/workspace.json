@@ -27,10 +27,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Data Science/Figures/Assignment 1.md"
+                "file": "Data Science/Figures/Question 1.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Assignment 1"
+              "title": "Question 1"
             }
           }
         ],
@@ -100,10 +100,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Science/Figures/Assignment 1.md"
+                "file": "Data Science/Figures/Question 1.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Assignment 1"
+              "title": "Outline of Question 1"
             }
           }
         ]
@@ -200,7 +200,8 @@
   "active": "a219415939b8eb6f",
   "lastOpenFiles": [
     "Data Science/Assignment 1.md",
-    "Data Science/Figures/Assignment 1.md",
+    "Data Science/Figures/Question 1.md",
+    "Linear Algebra/Section 1/Section 1.1.md",
     "Data Science/Figures",
     "MediaCom/Quiz 3 Notes.md",
     "Data Science",
@@ -212,7 +213,6 @@
     "Linear Algebra/Section 1/README.md",
     "Linear Algebra/Section 1/Section 1.4.md",
     "Excalidraw/Drawing 2025-01-22 01.08.36.excalidraw.md",
-    "Linear Algebra/Section 1/Section 1.1.md",
     "Linear Algebra/Section 1/Figures/Figure 1.md",
     "Excalidraw/Drawing 2025-01-22 01.06.34.excalidraw.md",
     "Excalidraw",
