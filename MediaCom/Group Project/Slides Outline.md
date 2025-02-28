@@ -1,7 +1,3 @@
-Here's a **slides outline** for your presentation on **Microtransactions in Video Games**. This keeps it within the **5-minute limit**, ensuring that each section is concise, impactful, and engaging.
-
----
-
 ### **Slide 1: Title Slide**
 
 - **Title:** _Microtransactions in Video Games: A Multi-Perspective Analysis_
@@ -106,11 +102,3 @@ Here's a **slides outline** for your presentation on **Microtransactions in Vide
 
 ---
 
-## **Next Steps**
-
-Would you like me to:  
-✅ **Create speaker notes for each slide?**  
-✅ **Design the slides in PowerPoint or Google Slides format?**  
-✅ **Add specific visuals and animations?**
-
-Let me know how you’d like to proceed! 🚀
