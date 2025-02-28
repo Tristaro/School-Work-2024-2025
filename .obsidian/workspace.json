@@ -108,13 +108,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MediaCom/Group Project/Bibliography.md",
+                "file": "MediaCom/Group Project/Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Bibliography"
+              "title": "Outline of Untitled"
             }
           }
         ]
@@ -208,10 +208,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "987ec4d2c4811ef1",
+  "active": "d63dde9d783b5a08",
   "lastOpenFiles": [
-    "MediaCom/Group Project/Untitled.md",
     "MediaCom/Group Project/Bibliography.md",
+    "MediaCom/Group Project/Untitled.md",
     "MediaCom/Quiz 3 Notes.md",
     "MediaCom/Group Project/Untitled 1.md",
     "MediaCom/Group Project/Media Studies Project Proposal.md",
