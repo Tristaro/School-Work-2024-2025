@@ -10,7 +10,7 @@ Overall, I think the division of labor was effective since we managed to complet
 
 Scheduling was a major challenge due to **midterms**, **reading week**, and **living far from each other**. These factors limited our ability to meet in person, so we only had two face-to-face meetings: once during the tutorial on the first day of the project and again on **Friday, the 28th**.
 
-Despite this, we maintained communication online through **Discord**, using both messages and calls to coordinate our progress. We used **Google Docs** for shared writing, **Google Slides** for our presentation, and Discord for planning and general communication.
+Despite this, we maintained communication online through **Discord**, using both messages and calls. We used **Google Docs** for shared writing, **Google Slides** for our presentation, and Discord for planning and general communication.
 
 ### Challenges & Solutions
 
