@@ -1,104 +1,43 @@
 ### **Slide 1: Title Slide**
 
-- **Title:** _Microtransactions in Video Games: A Multi-Perspective Analysis_
-- **Subtitle:** _Technology, Culture, and Economy_
-- **Your Name / Group Name**
-- **Visual:** Image of a popular game with microtransactions (_Fortnite_, _FIFA Ultimate Team_, _Genshin Impact_, etc.)
+**Title:** _The Impact of Microtransactions in Modern Video Games_  
+**Subtitle:** _A Critical Analysis through Media Studies Frameworks_  
+**Your Name & Date**
+
+**Speaker Notes:**
+
+- Welcome the audience and introduce the topic.
+- Explain that microtransactions have become a key part of video game monetization, influencing both game design and player experiences.
+- Briefly outline that this presentation will analyze microtransactions using three media studies perspectives.
 
 ---
 
-### **Slide 2: Introduction**
+### **Slide 2: Introduction to Microtransactions**
 
-- **What are Microtransactions?**
-    - Small in-game purchases for cosmetics, power-ups, or content
-    - Used in free-to-play and premium games
-- **Why They Matter?**
-    - Multi-billion dollar industry
-    - Affects game design, player experience, and gaming culture
-- **Thesis Statement:**
-    - We analyze microtransactions through **three lenses**:
-        1. **Technology** – How they are engineered
-        2. **Text** – How they shape gaming culture
-        3. **Commodity** – Their business model
+**Slide Content (Bullet Points):**
 
----
+- Microtransactions: Small in-game purchases for digital content.
+- Common in free-to-play and premium games (e.g., FIFA Ultimate Team, gacha games).
+- Influence game design and player engagement.
 
-### **Slide 3: Media as Technology** – _How Microtransactions are Engineered_
+**Speaker Notes:**
 
-- **Persuasive Design**
-    - UI/UX nudging: "One-click purchase" & Limited-time offers
-    - Encouraging impulse buying (psychological tricks)
-- **Behavioral Tracking**
-    - Game developers track player data to target spending habits
-- **Loot Box Psychology**
-    - Randomized rewards (like gambling) encourage spending
-
-📌 **Example:** _Fortnite's V-Bucks store, FIFA Ultimate Team packs, Gacha games_  
-🎨 **Visual:** Loot box opening animation, UI example of an in-game shop
+- Define microtransactions and give examples of where they appear.
+- Mention that they generate billions in revenue and shape game development.
+- Lead into the analytical approach: _How do they function as technology, text, and commodity?_
 
 ---
 
-### **Slide 4: Media as Text** – _The “Pay-to-Win” Narrative_
+### **Slide 3: Analytical Approach**
 
-- **Cultural Debate**
-    - Pay-to-win vs. Fair play
-    - Creates a divide between paying and non-paying players
-- **Microtransactions & Gaming Identity**
-    - Cosmetics and customization influence self-expression
-    - Pressure to buy items to "fit in" with the community
-- **Player Resistance**
-    - Boycotts, review-bombing, and community backlash
+**Slide Content (Bullet Points):**
 
-📌 **Example:** _Star Wars Battlefront II loot box controversy_  
-🎨 **Visual:** Meme of "Pay-to-Win vs. Skill-based Play"
+- **Media as Technology:** How microtransactions are built into game systems.
+- **Media as Text:** How they influence narratives, mechanics, and player experience.
+- **Media as a Commodity:** Their role in the gaming economy and broader entertainment industry.
 
----
+**Speaker Notes:**
 
-### **Slide 5: Media as a Mass-Produced Commodity** – _Microtransactions as a Business Model_
-
-- **Recurring Revenue Model**
-    - Games now focus on **long-term spending** instead of one-time purchases
-- **Surveillance Economy & Data Monetization**
-    - Players’ in-game behavior is tracked to **optimize pricing strategies**
-- **Regulation & Ethics**
-    - Governments banning loot boxes due to gambling concerns
-
-📌 **Example:** _Belgium & Netherlands banning loot boxes_  
-🎨 **Visual:** Graph of gaming industry revenue from microtransactions
-
----
-
-### **Slide 6: Ethical Concerns & The Future of Microtransactions**
-
-- **Are Microtransactions Harmful or Just Business?**
-    - Predatory practices vs. Consumer choice
-- **Possible Future Regulations**
-    - Transparency in loot box odds
-    - Laws against targeting minors
-- **Alternative Monetization Strategies**
-    - Subscription models (_Game Pass, Battle Passes_)
-
-📌 **Example:** _Genshin Impact’s Gacha Model vs. Game Pass Subscription Model_  
-🎨 **Visual:** Infographic of different monetization models
-
----
-
-### **Slide 7: Conclusion & Final Thoughts**
-
-- **Microtransactions are a key part of modern gaming**
-- **They impact game design, culture, and the economy**
-- **Future regulations could change the industry landscape**
-- **Question for the audience:** _Do you think microtransactions improve or harm gaming?_
-
-🎨 **Visual:** Thought-provoking image (e.g., money vs. skill in gaming)
-
----
-
-### **Slide 8: Bibliography & Sources**
-
-- **Cite key academic readings & websites used**
-- **Include URLs for external sources**
-- **Format properly (APA, MLA, or Chicago based on your requirement)**
-
----
-
+- Explain that these three perspectives help us critically analyze microtransactions.
+- Media as technology looks at the systems that support microtransactions.
+- Media as text examines how they affect the game experience.
