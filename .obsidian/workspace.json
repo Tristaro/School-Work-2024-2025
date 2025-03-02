@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "DS1000 Midterm Cheat Sheet"
             }
-          },
-          {
-            "id": "dacd15210d6f97db",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "DataScience/Assignment 1/Figures/Figure (4).jpg"
-              },
-              "icon": "lucide-image",
-              "title": "Figure (4)"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,13 +88,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataScience/Assignment 1/Figures/Figure (4).jpg",
+                "file": "DataScience/DS1000 Midterm Cheat Sheet.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Figure (4)"
+              "title": "Outline of DS1000 Midterm Cheat Sheet"
             }
           }
         ]
@@ -201,8 +188,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "938004a51dc2fa10",
+  "active": "987ec4d2c4811ef1",
   "lastOpenFiles": [
+    "DataScience/Assignment 1/Figures/Figure (4).jpg",
     "DataScience/Assignment 1/Figures/Figure (13).jpg",
     "DataScience/Assignment 1/Figures/Figure (9).jpg",
     "DataScience/Assignment 1/Figures/Figure (8).jpg",
