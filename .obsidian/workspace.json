@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataScience/DS1000 Midterm Cheat Sheet.md",
+                "file": "DataScience/Assignment 1/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DS1000 Midterm Cheat Sheet"
+              "title": "Untitled"
             }
           },
           {
@@ -102,13 +102,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataScience/DS1000 Midterm Cheat Sheet.md",
+                "file": "DataScience/Assignment 1/Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of DS1000 Midterm Cheat Sheet"
+              "title": "Outline of Untitled"
             }
           }
         ]
@@ -204,8 +204,9 @@
   },
   "active": "987ec4d2c4811ef1",
   "lastOpenFiles": [
-    "DataScience/Assignment 1/Assignment 1.md",
     "DataScience/DS1000 Midterm Cheat Sheet.md",
+    "DataScience/Assignment 1/Untitled.md",
+    "DataScience/Assignment 1/Assignment 1.md",
     "Linear Algebra/README.md",
     "MediaCom/Group Project/Rough 1.md",
     "MediaCom/Group Project/Media Studies Project Proposal.md",
@@ -249,7 +250,6 @@
     "Excalidraw",
     "Linear Algebra/Section 1/Figures/Figure 6.md",
     "Linear Algebra/Section 1/Figures/Figure 5.md",
-    "Linear Algebra/Section 1/Figures/Figure 4.md",
     "School/Linear Algebra/Untitled.canvas"
   ]
 }
