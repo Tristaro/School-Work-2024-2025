@@ -35,7 +35,8 @@
               "title": "Assignment 1"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -102,13 +103,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataScience/DS1000 Midterm Cheat Sheet.md",
+                "file": "DataScience/Assignment 1/Assignment 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of DS1000 Midterm Cheat Sheet"
+              "title": "Outline of Assignment 1"
             }
           }
         ]
@@ -202,10 +203,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "987ec4d2c4811ef1",
+  "active": "dacd15210d6f97db",
   "lastOpenFiles": [
-    "DataScience/Assignment 1/DS1000 Midterm Cheat Sheet Compressed.md",
     "DataScience/DS1000 Midterm Cheat Sheet.md",
+    "DataScience/Assignment 1/DS1000 Midterm Cheat Sheet Compressed.md",
     "DataScience/Assignment 1/Assignment 1.md",
     "Linear Algebra/README.md",
     "MediaCom/Group Project/Rough 1.md",
