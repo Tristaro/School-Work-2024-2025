@@ -150,90 +150,51 @@ The first quartile would fall into what grade range?
 - b. The IQR
 - c. The minimum and the maximum
 - **d. All of the answer options are correct** ✅
-
----
-
 #### **8. A positive association between high school dropout rates and infant mortality is most likely due to:**
-
 - a. x causes y
 - b. y causes x
 - **c. Lurking variables are present (e.g., larger populations increase both x and y)** ✅
 - d. The association is purely coincidental
-
----
-
 #### **9. Based on boxplots, the mean age for horses with enteroliths is:**
-
 - **a. Lower than the mean age for the controls** ✅
 - b. Approximately the same as the mean age for the controls
 - c. Higher than the mean age for the controls
 - d. Cannot be determined from boxplots
-
----
-
 #### **10. A soap box is labeled overweight if it's in the top 5% of weights (mean = 33 oz, standard deviation = 0.7 oz). What is the cutoff?**
-
 - a. 31.60 oz
 - b. 31.85 oz
 - **c. 34.15 oz** ✅
 - d. 34.40 oz
-
----
-
 #### **11. A regression model explains 13.4% of variation in BMI due to marijuana use. This model is:**
-
 - a. Extremely effective
 - **b. Not effective** ✅
 - c. Extremely effective (36.6%)
 - d. Not effective (36.6%)
-
----
-
 #### **12. Your test score (90) and your friend's test score (75) came from different distributions. Who performed better?**
-
 - a. You clearly ranked better
 - **b. You and your friend ranked equally well** ✅
 - c. Your friend actually ranked better
 - d. Nothing; the tests cannot be compared
-
----
-
 #### **13. If we omitted the highest-value point in a scatterplot, the regression line slope would:**
-
 - a. Increase
 - **b. Decrease** ✅
 - c. Change very little
 - d. Not enough information
-
----
-
 #### **14. Given statistical values, what is the intercept of the least-squares regression line?**
-
 - a. 48.5
 - b. 1.9
 - **c. -8.5** ✅
 - d. 12.875
-
----
-
 #### **15. What proportion of students slept less than 6 hours?**
-
 - a. 0.286
 - **b. 0.292** ✅
 - c. 0.25
 - d. 0.333
-
----
-
 #### **16. Among students who studied more than 4 hours, what proportion slept less than 6 hours?**
-
 - a. 0.29
 - b. 0.08
 - **c. 0.4** ✅
 - d. 0.2
-
----
-
 #### **17. Which Python code correctly calculates the mean and visualizes `x`?**
 
 - **d. Correct Python code** ✅
