@@ -71,7 +71,7 @@
 |**Smokers**|10|100|10/100=0.1010/100 = 0.1010/100=0.10|
 |**Non-Smokers**|2|100|2/100=0.022/100 = 0.022/100=0.02|
 Now, calculate the **Relative Risk**:
-RR=0.100.02=5RR = (0.10}{0.02} = 5RR=0.020.10​=5
+RR = (0.10/0.02) = 5
 This means that smokers are **5 times more likely** to develop lung cancer compared to non-smokers.
 - RR=1: No difference in risk between the two groups.
 - RR>1: Higher risk in the exposed group (risk factor).
