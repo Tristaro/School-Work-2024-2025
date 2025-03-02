@@ -64,6 +64,10 @@
 
 - Compares risk between two groups.
 - **Formula**: `RR = P(disease | exposed) / P(disease | unexposed)`
+- Where:
+	- p1​ = Probability of the event in the exposed group.
+	- p0​ = Probability of the event in the unexposed group.
+	- 1−p1​ and 1−p0​ are the probabilities of the event _not_ occurring in the respective groups.
 - **Example**: Suppose we are studying lung cancer risk in smokers and non-smokers. The data is:
 
 |Group|People with Lung Cancer|Total People|Probability (PPP)|
