@@ -76,16 +76,37 @@ This means that smokers are **5 times more likely** to develop lung cancer compa
 
 - Used to find probabilities for standard normal (Z) scores.
 - **Example**: If Z = 1.5, the table shows `P(Z < 1.5) ≈ 0.933`.
-## **Important Formulas**
+## **Important Formulas & Explanations**
+### **Mean (x̄)**
+- **Formula**: `x̄ = Σxᵢ / n`
+- **Explanation**: The sum of all observations divided by the number of observations.
+- **Example**: For the numbers `[5, 10, 15]`, mean = `(5+10+15)/3 = 10`.
+### **Variance (s²)**
+- **Formula**: `s² = Σ (xᵢ - x̄)² / (n-1)`
+- **Explanation**: Measures the spread of the data from the mean.
+- **Example**: If x̄ = 10 and data points are `[5, 10, 15]`, variance = `((5-10)² + (10-10)² + (15-10)²) / (3-1) = 25`.
+### **Standard Deviation (s)**
+- **Formula**: `s = √s²`
+- **Explanation**: The square root of variance; gives the average deviation from the mean.
+### **Correlation (r)**
+- **Formula**: `r = Σ (xᵢ - x̄)(yᵢ - ȳ) / ( (n-1) * sₓ * sᵧ )`
+- **Explanation**: Measures the strength and direction of a linear relationship between two variables.
+- **Example**: If taller people tend to weigh more, `r` is positive.
+### **Regression Slope (b)*
+- **Formula**: `b = r (sᵧ / sₓ)`
+    
+- **Explanation**: Represents the change in `y` for a one-unit increase in `x`.
+    
+- **Example**: If height increases by 1 cm, weight increases by 0.5 kg, `b = 0.5`.
+    
 
-```
-Mean (x̄) = Σxᵢ / n
-Variance (s²) = Σ (xᵢ - x̄)² / (n-1)
-Standard Deviation (s) = √s²
-Correlation (r) = Σ (xᵢ - x̄)(yᵢ - ȳ) / ( (n-1) * sₓ * sᵧ )
-Regression Slope (b) = r (sᵧ / sₓ)
-Intercept (a) = ȳ - b x̄
-```
+### **Intercept (a)**
+
+- **Formula**: `a = ȳ - b x̄`
+    
+- **Explanation**: The predicted value of `y` when `x = 0`.
+    
+- **Example**: If the regression equation is `weight = 50 + 0.5(height)`, then when `height = 0`, predicted `weight = 50`.
 ## **Python Quick Reference**
 
 ```python
