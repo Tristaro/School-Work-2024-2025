@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataScience/Assignment 1/DS1000 Midterm Cheat Sheet Compressed.md",
+                "file": "DataScience/DS1000 Midterm Cheat Sheet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DS1000 Midterm Cheat Sheet Compressed"
+              "title": "DS1000 Midterm Cheat Sheet"
             }
           },
           {
@@ -102,13 +102,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataScience/Assignment 1/DS1000 Midterm Cheat Sheet Compressed.md",
+                "file": "DataScience/DS1000 Midterm Cheat Sheet.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of DS1000 Midterm Cheat Sheet Compressed"
+              "title": "Outline of DS1000 Midterm Cheat Sheet"
             }
           }
         ]
@@ -204,8 +204,8 @@
   },
   "active": "987ec4d2c4811ef1",
   "lastOpenFiles": [
-    "DataScience/DS1000 Midterm Cheat Sheet.md",
     "DataScience/Assignment 1/DS1000 Midterm Cheat Sheet Compressed.md",
+    "DataScience/DS1000 Midterm Cheat Sheet.md",
     "DataScience/Assignment 1/Assignment 1.md",
     "Linear Algebra/README.md",
     "MediaCom/Group Project/Rough 1.md",
