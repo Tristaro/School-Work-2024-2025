@@ -1,7 +1,3 @@
-# DS1000 Midterm Cheat Sheet
-
----
-
 ## **Key Concepts & Definitions**
 
 ### **Data Types**
@@ -9,7 +5,6 @@
 - **Categorical**: Data that represents groups or categories (e.g., eye color, gender, zip codes).
 - **Quantitative**: Numerical data that represents amounts or measurements (e.g., height, weight, test scores).
 - **Example**: A dataset with students' favorite colors (categorical) and their heights (quantitative).
-
 ### **Descriptive Statistics**
 
 - **Mean**: Average value of a dataset.
@@ -17,43 +12,36 @@
 - **Mode**: Most frequently occurring value.
 - **Variance & Standard Deviation**: Measure how spread out the data is.
 - **Example**: Given test scores `[70, 80, 85, 90, 95]`, the mean is 84, median is 85, and standard deviation shows how much scores deviate from the mean.
-
 ### **Distribution Shapes**
 
 - **Symmetric**: Left and right sides mirror each other.
 - **Skewed Left**: Tail on the left (e.g., exam scores where most students score high but a few score very low).
 - **Skewed Right**: Tail on the right (e.g., income distribution where most people earn lower amounts but a few earn very high).
 - **Example**: A histogram showing salaries where most employees earn $50,000 but a few executives earn $500,000 (right-skewed).
-
 ### **Boxplots & Five-Number Summary**
 
 - **Five-Number Summary**: Minimum, Q1 (25th percentile), Median (50th percentile), Q3 (75th percentile), Maximum.
 - **Boxplot**: A visual representation of the five-number summary.
 - **Example**: A boxplot of student heights showing a median of 170 cm, with a few outliers above 190 cm.
-
 ### **Normal Distribution**
 
 - Bell-shaped, symmetric curve where most values cluster around the mean.
 - **68-95-99.7 Rule**: 68% of data falls within 1 standard deviation, 95% within 2, and 99.7% within 3.
 - **Example**: IQ scores follow a normal distribution with mean 100 and standard deviation 15.
-
 ### **Z-score**
 
 - Measures how many standard deviations a value is from the mean.
 - **Formula**: `z = (x - μ) / σ`
 - **Example**: If SAT scores have a mean of 500 and standard deviation of 100, a score of 650 has a z-score of `(650-500)/100 = 1.5`.
-
 ### **Correlation (r)**
 
 - Measures strength & direction of a linear relationship between two variables (-1 to 1).
 - **Example**: Height and weight have a strong positive correlation (~0.8), meaning taller people tend to weigh more.
-
 ### **Regression Equation**
 
 - Describes the relationship between dependent (Y) and independent (X) variables.
 - **Formula**: `y = a + bx`
 - **Example**: Predicting weight (Y) based on height (X), where `y = 50 + 0.5x` means for every 1 cm increase in height, weight increases by 0.5 kg.
-
 ### **Residuals**
 
 - Difference between actual and predicted values in regression.
