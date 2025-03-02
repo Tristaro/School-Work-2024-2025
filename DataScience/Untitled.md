@@ -64,16 +64,12 @@
 
 - Compares risk between two groups.
 - **Formula**: `RR = P(disease | exposed) / P(disease | unexposed)`
-- Where:
-	- p1​ = Probability of the event in the exposed group.
-	- p0​ = Probability of the event in the unexposed group.
-	- 1−p1​ and 1−p0​ are the probabilities of the event _not_ occurring in the respective groups.
 - **Example**: Suppose we are studying lung cancer risk in smokers and non-smokers. The data is:
 
-|Group|People with Lung Cancer|Total People|Probability (PPP)|
-|---|---|---|---|
-|**Smokers**|10|100|10/100=0.1010/100 = 0.1010/100=0.10|
-|**Non-Smokers**|2|100|2/100=0.022/100 = 0.022/100=0.02|
+| Group           | People with Lung Cancer | Total People | Probability (PPP)                |
+| --------------- | ----------------------- | ------------ | -------------------------------- |
+| **Smokers**     | 10                      | 100          | 10/100=0.10                      |
+| **Non-Smokers** | 2                       | 100          | 2/100=0.022/100 = 0.022/100=0.02 |
 Now, calculate the **Relative Risk**:
 RR = (0.10/0.02) = 5
 This means that smokers are **5 times more likely** to develop lung cancer compared to non-smokers.
@@ -85,6 +81,10 @@ This means that smokers are **5 times more likely** to develop lung cancer compa
 
 - Compares odds of an event occurring in two groups.
 - **Formula**: `OR = (p1 / (1 - p1)) / (p0 / (1 - p0))`
+-  Where:
+	- p<sub>1</sub>​ = Probability of the event in the exposed group.
+	- p<sub>0​</sub> = Probability of the event in the unexposed group.
+	- 1−p<sub>1</sub>​ and 1−p<sub>0</sub>​ are the probabilities of the event _not_ occurring in the respective groups.
 - **Example**: If 20% of exposed people develop a disease while 5% of non-exposed do, `OR = (0.2/0.8) / (0.05/0.95) = 4`.
 
 ### **Standard Normal Table**
