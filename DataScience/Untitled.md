@@ -64,7 +64,15 @@
 
 - Compares risk between two groups.
 - **Formula**: `RR = P(disease | exposed) / P(disease | unexposed)`
-- **Example**: If 10% of smokers get lung cancer but only 2% of non-smokers do, RR = `10/2 = 5`.
+- **Example**: Suppose we are studying lung cancer risk in smokers and non-smokers. The data is:
+
+|Group|People with Lung Cancer|Total People|Probability (PPP)|
+|---|---|---|---|
+|**Smokers**|10|100|10/100=0.1010/100 = 0.1010/100=0.10|
+|**Non-Smokers**|2|100|2/100=0.022/100 = 0.022/100=0.02|
+Now, calculate the **Relative Risk**:
+RR=0.100.02=5RR = (0.10}{0.02} = 5RR=0.020.10​=5
+This means that smokers are **5 times more likely** to develop lung cancer compared to non-smokers.
 - RR=1: No difference in risk between the two groups.
 - RR>1: Higher risk in the exposed group (risk factor).
 - RR<1: Lower risk in the exposed group (protective factor).
