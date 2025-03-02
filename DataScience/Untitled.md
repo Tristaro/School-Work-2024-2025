@@ -59,24 +59,22 @@
 - Difference between actual and predicted values in regression.
 - **Formula**: `e = y - ŷ`
 - **Example**: If actual weight is 80 kg and predicted is 78 kg, residual is `80 - 78 = 2`.
-
 ### **Relative Risk (RR)**
 
 - Compares risk between two groups.
 - **Formula**: `RR = P(disease | exposed) / P(disease | unexposed)`
 - **Example**: Suppose we are studying lung cancer risk in smokers and non-smokers. The data is:
 
-| Group           | People with Lung Cancer | Total People | Probability (PPP)                |
-| --------------- | ----------------------- | ------------ | -------------------------------- |
-| **Smokers**     | 10                      | 100          | 10/100=0.10                      |
-| **Non-Smokers** | 2                       | 100          | 2/100=0.022/100 = 0.022/100=0.02 |
+| Group           | People with Lung Cancer | Total People | Probability (PPP) |
+| --------------- | ----------------------- | ------------ | ----------------- |
+| **Smokers**     | 10                      | 100          | 10/100=0.10       |
+| **Non-Smokers** | 2                       | 100          | 2/100=0.02        |
 Now, calculate the **Relative Risk**:
 RR = (0.10/0.02) = 5
 This means that smokers are **5 times more likely** to develop lung cancer compared to non-smokers.
 - RR=1: No difference in risk between the two groups.
 - RR>1: Higher risk in the exposed group (risk factor).
 - RR<1: Lower risk in the exposed group (protective factor).
-
 ### **Odds Ratio (OR)**
 
 - Compares odds of an event occurring in two groups.
@@ -86,14 +84,10 @@ This means that smokers are **5 times more likely** to develop lung cancer compa
 	- p<sub>0​</sub> = Probability of the event in the unexposed group.
 	- 1−p<sub>1</sub>​ and 1−p<sub>0</sub>​ are the probabilities of the event _not_ occurring in the respective groups.
 - **Example**: If 20% of exposed people develop a disease while 5% of non-exposed do, `OR = (0.2/0.8) / (0.05/0.95) = 4`.
-
 ### **Standard Normal Table**
 
 - Used to find probabilities for standard normal (Z) scores.
 - **Example**: If Z = 1.5, the table shows `P(Z < 1.5) ≈ 0.933`.
-
----
-
 ## **Important Formulas**
 
 ```
@@ -104,9 +98,6 @@ Correlation (r) = Σ (xᵢ - x̄)(yᵢ - ȳ) / ( (n-1) * sₓ * sᵧ )
 Regression Slope (b) = r (sᵧ / sₓ)
 Intercept (a) = ȳ - b x̄
 ```
-
----
-
 ## **Python Quick Reference**
 
 ```python
@@ -125,7 +116,3 @@ from sklearn.linear_model import LinearRegression
 model = LinearRegression()
 model.fit(X, y)
 ```
-
----
-
-## **Good luck!**
