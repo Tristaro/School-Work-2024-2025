@@ -65,6 +65,9 @@
 - Compares risk between two groups.
 - **Formula**: `RR = P(disease | exposed) / P(disease | unexposed)`
 - **Example**: If 10% of smokers get lung cancer but only 2% of non-smokers do, RR = `10/2 = 5`.
+- RR=1: No difference in risk between the two groups.
+- RR>1: Higher risk in the exposed group (risk factor).
+- RR<1: Lower risk in the exposed group (protective factor).
 
 ### **Odds Ratio (OR)**
 
