@@ -1,3 +1,4 @@
+Sub
 ## **Slide 1: Title Slide**
 
 Hello! Today, we will be discussing a major aspect of modern gaming—microtransactions. They’ve become a defining part of the industry, influencing game design, player behavior, and even broader economic structures. we will analyze microtransactions through three perspectives: media as technology, media as text, and media as a commodity. 
