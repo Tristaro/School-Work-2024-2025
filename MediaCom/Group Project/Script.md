@@ -30,7 +30,7 @@ Microtransactions often take advantage of **gambling mechanics**. Many games use
 
 ## **Slide 7: Media as a Mass-Produced Commodity**
 
-Microtransactions have also changed how the gaming industry generates revenue. Instead of players paying once for a game, companies now rely on continuous spending through loot boxes, battle passes, and in-game currency. This shift has turned gaming into an ongoing revenue stream, generating billions of dollars every year.
+Microtransactions have also changed how the gaming industry generates revenue. Instead of players paying once for a game, companies now rely on continuous spending through loot boxes, battle passes, in-game currency and subscriptions. This shift has turned gaming into an ongoing revenue stream, generating billions of dollars every year.
 
 ---
 
