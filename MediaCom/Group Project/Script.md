@@ -55,15 +55,6 @@ The rise of loot boxes has also led to ethical concerns. Many regulators view th
 ## **Slide 11: Conclusion – The Impact of Microtransactions**
 
 To summarize, microtransactions have fundamentally changed gaming. As a **technology**, they use persuasive design to drive spending. As a **text**, they influence gaming culture and debates about fairness. As a **commodity**, they have transformed games into recurring revenue models.
-
----
-
-## **Slide 12: The Bigger Picture**
-
 This isn’t just a gaming issue—it’s part of a bigger trend in digital media, where engagement is monetized. Games are no longer just entertainment; they’re designed to maximize profits, which raises ethical concerns.
 
 ---
-
-## **Slide 13: Final Thoughts & Discussion**
-
-This brings us to an important question: Are microtransactions an inevitable evolution of gaming, or are they exploitative? Thank you for listening, and I’d love to hear your thoughts!
