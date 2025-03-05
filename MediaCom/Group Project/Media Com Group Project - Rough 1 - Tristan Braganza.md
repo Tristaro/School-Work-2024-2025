@@ -1,4 +1,4 @@
-****
+**Note**: This rough essay is a combination of words copied from sources and my own, not used for the final assignment, i created it as proof of work and to organize my thoughts. final was made by combining with the other rough
 
 ### Introduction
 
