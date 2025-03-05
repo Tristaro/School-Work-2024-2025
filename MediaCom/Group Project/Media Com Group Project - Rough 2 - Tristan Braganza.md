@@ -1,7 +1,7 @@
+**Note**: This rough essay is a combination of words copied from sources and my own, not used for the final assignment, i created it as proof of work and to organize my thoughts. final was made by combining with the other rough copy.
+
+
 Microtransactions have become a cornerstone of the video game industry, influencing game design, player behavior, and economic models. This essay examines microtransactions through three critical lenses: **media as technology**, **media as text**, and **media as a mass-produced commodity**.
-
----
-
 ### Media as Technology: Engineering Player Engagement
 
 The integration of microtransactions into video games is a deliberate strategy aimed at maximizing player spending. Developers employ persuasive design techniques and behavioral psychology to create seamless purchasing experiences.
@@ -13,9 +13,6 @@ Game designers utilize deep psychological triggers to encourage microtransaction
 **Variable-Ratio Reinforcement Schedules**
 
 Microtransactions often exploit variable-ratio reinforcement schedules, a concept rooted in behavioral psychology. This mechanism, similar to that used in gambling, provides rewards at unpredictable intervals, encouraging repeated behavior. In gaming, loot boxes and gacha systems offer randomized rewards, enticing players to make multiple purchases in hopes of obtaining rare items. This unpredictability fosters a cycle of spending, as players are driven by the anticipation of potential rewards. https://en.wikipedia.org/wiki/Loot_box
-
----
-
 ### Media as Text: Shaping Cultural Narratives
 
 Microtransactions significantly impact gaming culture, influencing perceptions of fairness, skill, and community dynamics.
@@ -27,9 +24,6 @@ The introduction of microtransactions, especially those offering competitive adv
 **Impact on Player Identity and Community**
 
 Microtransactions influence player identity and community interactions. The availability of purchasable cosmetic items allows players to personalize their in-game avatars, fostering a sense of individuality. However, this can also create social stratification, where players with premium items are perceived differently than those without. Additionally, the pressure to conform to in-game trends can lead to overspending, particularly among younger players susceptible to peer influence. This phenomenon raises concerns about the psychological impact of microtransactions on player well-being. https://beachsideteen.com/what-are-microtransactions-and-how-do-they-affect-mental-health/
-
----
-
 ### Media as a Mass-Produced Commodity: Economic Implications
 
 Microtransactions have redefined the economic landscape of the gaming industry, transitioning revenue models from one-time purchases to continuous spending.
@@ -41,9 +35,6 @@ The financial success of microtransactions is evident in industry reports. For i
 **Ethical and Regulatory Considerations**
 
 The resemblance of certain microtransaction models, such as loot boxes, to gambling has sparked ethical debates and regulatory scrutiny. Studies have found a correlation between loot box purchases and problem gambling behaviors, leading to calls for stricter regulations. Some countries have responded by implementing policies that require transparency in loot box odds or by restricting their sale to minors. These measures aim to protect vulnerable populations from potential exploitation and to promote responsible gaming practices. https://www.nature.com/articles/s41598-022-20549-1
-
----
-
 ### Conclusion
 
 Microtransactions are a multifaceted phenomenon in the video game industry, intricately tied to technological design, cultural narratives, and economic strategies. While they offer a sustainable revenue model for developers and opportunities for player engagement, they also raise significant concerns regarding fairness, psychological impact, and ethical business practices. As the industry continues to evolve, a balanced approach that considers both profitability and player well-being will be essential in shaping the future landscape of gaming.
