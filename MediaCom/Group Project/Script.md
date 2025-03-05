@@ -48,51 +48,22 @@ Traditionally, players bought a game once and owned all its content. But now, ma
 
 ## **Slide 10: Gambling Mechanics & Ethical Concerns**
 
-**Slide Content:**
-
-- **Loot boxes & gambling parallels** (random rewards encourage addiction).
-- **Lack of spending transparency** (hidden costs add up).
-- **Regulation is increasing:** Belgium & Netherlands have banned loot boxes.
-
-**Speaker Notes:**  
-_"The rise of loot boxes has also led to ethical concerns. Many regulators view them as **gambling**, especially since they involve spending money on randomized rewards. Countries like **Belgium and the Netherlands** have even **banned loot boxes** in certain games due to their gambling-like mechanics."_
+The rise of loot boxes has also led to ethical concerns. Many regulators view them as **gambling**, especially since they involve spending money on randomized rewards. Countries like **Belgium and the Netherlands** have even **banned loot boxes** in certain games due to their gambling-like mechanics.
 
 ---
 
 ## **Slide 11: Conclusion – The Impact of Microtransactions**
 
-**Slide Content:**
-
-- Microtransactions shape **game design, culture, and industry economics**.
-- **Technological design** encourages spending through persuasive UX.
-- **As a text**, they influence gaming culture and fairness debates.
-- **As a commodity**, they shift games from products to recurring revenue streams.
-
-**Speaker Notes:**  
-_"To summarize, microtransactions have fundamentally changed gaming. As a **technology**, they use persuasive design to drive spending. As a **text**, they influence gaming culture and debates about fairness. As a **commodity**, they have transformed games into recurring revenue models."_
+To summarize, microtransactions have fundamentally changed gaming. As a **technology**, they use persuasive design to drive spending. As a **text**, they influence gaming culture and debates about fairness. As a **commodity**, they have transformed games into recurring revenue models.
 
 ---
 
 ## **Slide 12: The Bigger Picture**
 
-**Slide Content:**
-
-- Reflects a **broader shift in digital media monetization**.
-- **Gaming is now about engagement & profit, not just play**.
-- Raises **ethical and economic concerns** for players, developers, and regulators.
-
-**Speaker Notes:**  
-_"This isn’t just a gaming issue—it’s part of a bigger trend in digital media, where engagement is monetized. Games are no longer just entertainment; they’re designed to maximize profits, which raises ethical concerns."_
+This isn’t just a gaming issue—it’s part of a bigger trend in digital media, where engagement is monetized. Games are no longer just entertainment; they’re designed to maximize profits, which raises ethical concerns.
 
 ---
 
 ## **Slide 13: Final Thoughts & Discussion**
 
-**Slide Content:**
-
-- Are microtransactions **an evolution or a problem** in gaming?
-- Where should **regulation & ethical boundaries** be drawn?
-- Future of gaming: **Balancing profitability with player experience**.
-
-**Speaker Notes:**  
-_"This brings us to an important question: Are microtransactions an inevitable evolution of gaming, or are they exploitative? Thank you for listening, and I’d love to hear your thoughts!"_
+This brings us to an important question: Are microtransactions an inevitable evolution of gaming, or are they exploitative? Thank you for listening, and I’d love to hear your thoughts!
