@@ -18,7 +18,7 @@ Microtransactions don’t just appear in games by accident. They are carefully e
 One of the most effective strategies used in microtransactions is **persuasive design**. Games often use a one-click purchasing system that removes barriers to spending. Flashing banners, time-limited discounts, and FOMO (fear of missing out) to create a sense of urgency, making players more likely to buy. Additionally, developers track player behavior to determine the best time to present offers, increasing the chances of a purchase.
 ## **Slide 6: Psychological Manipulation & Reward Systems**
 
-Microtransactions often take advantage of **gambling mechanics**. Many games use **variable-ratio reinforcement**, the same strategy found in slot machines. Loot boxes and gacha systems provide randomized rewards, pushing players to spend more in hopes of obtaining rare items. This unpredictability fuels repeated spending, making microtransactions addictive for many players.
+Microtransactions often take advantage of **gambling mechanics**. Many games use **variable-ratio reinforcement**, the same strategy found in slot machines. Loot boxes and gacha systems provide randomized rewards, pushing players to spend more in hopes of obtaining rare items. This unpredictability fuels repeated spending, making microtransactions addictive for many players especially children.
 ## **Slide 7: Media as a Mass-Produced Commodity**
 
 Microtransactions have also changed how the gaming industry generates revenue. Instead of players paying once for a game, companies now rely on continuous spending through loot boxes, battle passes, in-game currency and subscriptions. This shift has turned gaming into an ongoing revenue stream, generating billions of dollars every year.
