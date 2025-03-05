@@ -18,66 +18,31 @@ Microtransactions don’t just appear in games by accident. They are carefully e
 
 ## **Slide 5: Persuasive Design & Behavioral Tracking**
 
-**Slide Content:**
-
-- **Seamless UI:** Single-click purchases reduce friction.
-- **Visual Cues:** Flashing offers & time-limited deals trigger FOMO.
-- **Player Tracking:** Games monitor behavior to personalize microtransaction offers.
-
-**Speaker Notes:**  
-_"One of the most effective strategies used in microtransactions is **persuasive design**. Games often use a one-click purchasing system that removes barriers to spending. Flashing banners, time-limited discounts, and FOMO (fear of missing out) tactics create a sense of urgency, making players more likely to buy. Additionally, developers track player behavior to determine the best time to present offers, increasing the chances of a purchase."_
+One of the most effective strategies used in microtransactions is **persuasive design**. Games often use a one-click purchasing system that removes barriers to spending. Flashing banners, time-limited discounts, and FOMO (fear of missing out) tactics create a sense of urgency, making players more likely to buy. Additionally, developers track player behavior to determine the best time to present offers, increasing the chances of a purchase.
 
 ---
 
 ## **Slide 6: Psychological Manipulation & Reward Systems**
 
-**Slide Content:**
-
-- **Variable-Ratio Rewards:** Loot boxes mimic gambling mechanics.
-- **Randomized Rewards:** Players chase rare items, leading to repeated spending.
-- **Addiction Mechanisms:** Similar to slot machines, purchases become habitual.
-
-**Speaker Notes:**  
-_"Microtransactions often take advantage of **gambling mechanics**. Many games use **variable-ratio reinforcement**, the same strategy found in slot machines. Loot boxes and gacha systems provide randomized rewards, pushing players to spend more in hopes of obtaining rare items. This unpredictability fuels repeated spending, making microtransactions addictive for many players."_
+Microtransactions often take advantage of **gambling mechanics**. Many games use **variable-ratio reinforcement**, the same strategy found in slot machines. Loot boxes and gacha systems provide randomized rewards, pushing players to spend more in hopes of obtaining rare items. This unpredictability fuels repeated spending, making microtransactions addictive for many players.
 
 ---
 
 ## **Slide 7: Media as a Mass-Produced Commodity**
 
-**Slide Content:**
-
-- Shift from **one-time purchases** to **continuous spending**.
-- Loot boxes, battle passes, and in-game currencies fuel a **digital consumer economy**.
-- Billions in annual revenue, reshaping game design priorities.
-
-**Speaker Notes:**  
-_"Microtransactions have also changed how the gaming industry generates revenue. Instead of players paying once for a game, companies now rely on continuous spending through loot boxes, battle passes, and in-game currency. This shift has turned gaming into an ongoing revenue stream, generating billions of dollars every year."_
+Microtransactions have also changed how the gaming industry generates revenue. Instead of players paying once for a game, companies now rely on continuous spending through loot boxes, battle passes, and in-game currency. This shift has turned gaming into an ongoing revenue stream, generating billions of dollars every year.
 
 ---
 
 ## **Slide 8: The Surveillance Economy & Player Data Monetization**
 
-**Slide Content:**
-
-- **Player data = a valuable commodity.**
-- **Dynamic pricing**: Offers change based on spending history.
-- **Companies fine-tune monetization** to maximize profit.
-
-**Speaker Notes:**  
-_"Another major concern is how companies use **player data**. Many major publishers track player behavior, purchases, and in-game activity to adjust pricing and offer personalized deals. This aligns with the **surveillance economy**, where user data is constantly analyzed to extract maximum revenue."_
+Another major concern is how companies use **player data**. Many major publishers track player behavior, purchases, and in-game activity to adjust pricing and offer personalized deals. This aligns with the **surveillance economy**, where user data is constantly analyzed to extract maximum revenue.
 
 ---
 
 ## **Slide 9: From Game Ownership to Recurring Revenue**
 
-**Slide Content:**
-
-- **Games as a service model:** Continuous engagement vs. single purchase.
-- **Artificial progression barriers** encourage microtransactions.
-- **Monetization-first design** changes how games are made.
-
-**Speaker Notes:**  
-_"Traditionally, players bought a game once and owned all its content. But now, many games operate as a **service**, where players are encouraged to keep spending. Some developers even design **progression barriers**, intentionally slowing down progress to encourage purchases."_
+Traditionally, players bought a game once and owned all its content. But now, many games operate as a **service**, where players are encouraged to keep spending. Some developers even design **progression barriers**, intentionally slowing down progress to encourage purchases.
 
 ---
 
