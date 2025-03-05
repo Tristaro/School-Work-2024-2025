@@ -1,5 +1,5 @@
 
-Behuria, Sworup. “Microtransactions as a Business Model in Video Gaming Industry: Its Comparison with Traditional Model and Effect on Other Industries.” _SSRN_, 26 Apr. 2023, papers.ssrn.com/sol3/papers.cfm?abstract_id=4418003.
+Behuria, Sworup. “Microtransactions as a Business Model in Video Gaming Industry: Its Comparison with Traditional Model and Effect on Other Industries.” _SSRN_, 26 Apr. 2023, papers.ssrn.com/sol3/papers.cfm?abstract_id=4418003. 
 
 Drummond, Aaron, et al. “Surprisingly High Prevalence Rates of Severe Psychological Distress among Consumers Who Purchase Loot Boxes in Video Games.” _Nature News_, Nature Publishing Group, 27 Sept. 2022, www.nature.com/articles/s41598-022-20549-1.
 
@@ -23,7 +23,7 @@ Staff, Beachside Teen. “What Are Microtransactions and How Do They Affect Ment
 
 Tomić, Nenad Zoran. “Economic Model of Microtransactions in Video Games.” _Journal of Economic Science Research_, 31 Jan. 2023, journals.bilpubgroup.com/index.php/jesr/article/view/439.
 
-Course Readings:
+**Course Readings:**
 05-Design for Diversity.pdf
 07-computers networks tracking.pdf
 11-Audiences Negotiation and Fandom.pdf

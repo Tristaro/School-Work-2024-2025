@@ -1,3 +1,5 @@
+****
+
 ### Introduction
 
 Microtransactions have become a dominant force in modern video game design, shaping the way players interact with digital content. Whether in free-to-play mobile games, console titles like FIFA Ultimate Team, or gacha-based mobile games, microtransactions are deeply integrated into the gaming experience. This analysis examines microtransactions through three critical lenses: **media as technology, media as text, and media as a mass-produced commodity.** By applying these frameworks, we can explore how microtransactions are engineered, their impact on gaming culture, and their economic significance in the broader entertainment industry.
