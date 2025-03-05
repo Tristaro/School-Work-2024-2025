@@ -25,22 +25,13 @@ Microtransactions have also changed how the gaming industry generates revenue. I
 ## **Slide 8: The Surveillance Economy & Player Data Monetization**
 
 Another major concern is how companies use **player data**. Many major publishers track player behavior, purchases, and in-game activity to adjust pricing and offer personalized deals. This aligns with the **surveillance economy**, where user data is constantly analyzed to extract maximum revenue.
-
 ## **Slide 9: From Game Ownership to Recurring Revenue**
 
 Traditionally, players bought a game once and owned all its content. But now, many games operate as a **service**, where players are encouraged to keep spending. Some developers even design **progression barriers**, intentionally slowing down progress to encourage purchases.
-
----
-
 ## **Slide 10: Gambling Mechanics & Ethical Concerns**
 
 The rise of loot boxes has also led to ethical concerns. Many regulators view them as **gambling**, especially since they involve spending money on randomized rewards. Countries like **Belgium and the Netherlands** have even **banned loot boxes** in certain games due to their gambling-like mechanics.
-
----
-
 ## **Slide 11: Conclusion – The Impact of Microtransactions**
 
 To summarize, microtransactions have fundamentally changed gaming. As a **technology**, they use persuasive design to drive spending. As a **text**, they influence gaming culture and debates about fairness. As a **commodity**, they have transformed games into recurring revenue models.
 This isn’t just a gaming issue—it’s part of a bigger trend in digital media, where engagement is monetized. Games are no longer just entertainment; they’re designed to maximize profits. 
-
----
