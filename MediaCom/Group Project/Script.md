@@ -18,7 +18,7 @@ Microtransactions don’t just appear in games by accident. They are carefully e
 
 ## **Slide 5: Persuasive Design & Behavioral Tracking**
 
-One of the most effective strategies used in microtransactions is **persuasive design**. Games often use a one-click purchasing system that removes barriers to spending. Flashing banners, time-limited discounts, and FOMO (fear of missing out) tactics create a sense of urgency, making players more likely to buy. Additionally, developers track player behavior to determine the best time to present offers, increasing the chances of a purchase.
+One of the most effective strategies used in microtransactions is **persuasive design**. Games often use a one-click purchasing system that removes barriers to spending. Flashing banners, time-limited discounts, and FOMO (fear of missing out) to create a sense of urgency, making players more likely to buy. Additionally, developers track player behavior to determine the best time to present offers, increasing the chances of a purchase.
 
 ---
 
