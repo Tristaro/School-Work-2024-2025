@@ -27,3 +27,5 @@ One major difference was that online, we couldn’t easily see each other’s pr
 ### Lessons Learned & Future Improvements
 
 Through this experience, I learned that **early scheduling** is crucial for better time management. If I could redo this project, I would **schedule group meetings within the first few days** and **complete the shared work immediately**, so that we wouldn’t have to stress about meeting near the deadline. I think this would help avoid last-minute coordination issues and ensure smoother collaboration overall.
+![[20250228_140936.jpg]
+![[20250228_141017.jpg]]
