@@ -1,0 +1,1 @@
+As artificial intelligence becomes increasingly integrated into digital media, it transforms passive media consumption into an interactive
