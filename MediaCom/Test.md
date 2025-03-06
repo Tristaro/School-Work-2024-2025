@@ -18,12 +18,12 @@ Body:
 - **Evidence 1:** Case study of Netflix’s AI-driven recommendations and content creation (e.g., _House of Cards_ developed based on viewer data).
 
 **Argument 2: AI’s Influence on Film Marketing and Distribution**
-
 - Studios use AI to analyze audience behavior and optimize marketing strategies, trailers, and ad placements.
 - **Evidence 2:** Examples of AI-generated trailers (e.g., IBM Watson’s creation of _Morgan_ trailer) and personalized ad campaigns based on viewer preferences.
 
-Argument 3
-Evidence 3
+**Argument 3: Risks of AI Shaping Film Creativity and Storytelling**
+- Over-reliance on AI-driven audience data may lead to formulaic storytelling and risk aversion in film production.
+- **Evidence 3:** Hollywood’s increasing reliance on sequels, remakes, and franchise films due to AI-driven box office predictions, limiting creative risks.
 
 Conclusion:
 Summary of Points
@@ -33,10 +33,7 @@ Reiterate Examples
 
 
 
-**Argument 3: Risks of AI Shaping Film Creativity and Storytelling**
 
-- Over-reliance on AI-driven audience data may lead to formulaic storytelling and risk aversion in film production.
-- **Evidence 3:** Hollywood’s increasing reliance on sequels, remakes, and franchise films due to AI-driven box office predictions, limiting creative risks.
 
 #### **Conclusion:**
 
