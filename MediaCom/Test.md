@@ -26,17 +26,6 @@ Body:
 - **Evidence 3:** Hollywood’s increasing reliance on sequels, remakes, and franchise films due to AI-driven box office predictions, limiting creative risks.
 
 Conclusion:
-Summary of Points
-Reiterate Examples
-
-
-
-
-
-
-
-#### **Conclusion:**
-
 - Summary of how AI-driven analytics and real-time audience feedback have transformed filmmaking.
 - Reiteration of key examples (Netflix’s AI content strategy, AI-generated marketing, Hollywood’s trend toward safe, data-backed storytelling).
 - Final thoughts on balancing AI’s benefits with the need for artistic creativity and originality in cinema.
