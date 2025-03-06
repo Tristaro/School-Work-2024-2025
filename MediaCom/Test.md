@@ -18,8 +18,8 @@ Evidence 1
 Argument 2
 Evidence 2
 
-Argument 1
-Evidence 1
+Argument 3
+Evidence 3
 
 Conclusion:
 Summary of Points
