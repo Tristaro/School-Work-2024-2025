@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Test"
             }
+          },
+          {
+            "id": "3e0eeff58c34fa57",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -188,7 +201,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ebbc7bd27d51c242",
+  "active": "3e0eeff58c34fa57",
   "lastOpenFiles": [
     "MediaCom/Group Project/Media Com Group Project - Personal Reflection - Tristan Braganza.md",
     "MediaCom/Test.md",

@@ -29,5 +29,3 @@ Conclusion:
 - Summary of how AI-driven analytics and real-time audience feedback have transformed filmmaking.
 - Reiteration of key examples (Netflix’s AI content strategy, AI-generated marketing, Hollywood’s trend toward safe, data-backed storytelling).
 - Final thoughts on balancing AI’s benefits with the need for artistic creativity and originality in cinema.
-
-Would you like any adjustments or more details in specific sections?
