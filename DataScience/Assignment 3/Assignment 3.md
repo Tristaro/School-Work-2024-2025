@@ -18,7 +18,12 @@ The correlation decreased from 0.996 to 0.923.
 This means the relationship between length and weight is still strongly positive, but less perfect than before.
 The modification introduced an outlier (a fish with an unusual length-to-weight ratio), reducing the overall linearity of the data.
 
-
+d) Yes, the correlation decreased from 0.996 to 0.923 after modifying the length of ID = 10.
+The new length value (49.2 cm) is much larger than the original (19.74 cm) for that fish.
+This change disrupts the natural trend in the data, making it less linear.
+The outlier (a fish with an unusual length-to-weight ratio) weakens the overall correlation.
+The correlation is still strong but not as perfect as before.
+This demonstrates how outliers can significantly affect correlation values.
 ```python
 # Load dataset
 file_path = "Fish.csv"
