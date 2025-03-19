@@ -7,6 +7,13 @@
 ![[20250318_213206.jpg]]
 # Part 2
 ## Question 4
+a) The scatterplot of **fish length (x-axis) vs. weight (y-axis)** shows a **positive linear relationship**. As the length of the fish increases, its weight also increases. The pattern appears to be **strong and linear**, meaning the two variables are highly correlated.
+
+b) The Pearson correlation coefficient r between fish length and weight is 0.996.
+Since r ≈ 1, there is a very strong positive linear relationship between length and weight.
+This means that as fish length increases, weight also increases almost perfectly linearly.
+
+c)
 
 ```python
 # Load dataset
