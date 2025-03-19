@@ -70,7 +70,11 @@ b) The **coefficient of determination (r<sup>2</sup>)** measures how well the mo
 - A value of **r<sup>2</sup>= 1** means the model **perfectly predicts height**, while **r<sup>2</sup>=0** means age does not explain height at all.
 - If r<sup>2</sup>is **high** (close to 1), it means the tree height is strongly correlated with age
 - If r<sup>2</sup> is **low**, it means other factors affect height more than age does.
-c) 
+c)
+-  **Interpretation of the slope:**
+    - If m=0.5, it means that for **every additional year**, the height of a Maple tree **increases by 0.5 meters**.
+- **Interpretation of the intercept:**
+    - If b=1.2, it means that at **age 0**, a Maple tree is **expected to be 1.2 meters tall**.
 ### Code
 
 ### Output
