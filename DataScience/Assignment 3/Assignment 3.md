@@ -145,5 +145,33 @@ species_regression("Pine")
 ## Question 6
 
 ### Code
+```python
+import pandas as pd
+import seaborn as sns
+import matplotlib.pyplot as plt
 
+# Load dataset
+file_path = "Trees.csv"
+tree_data = pd.read_csv(file_path)
+
+# Rename columns to match expected format
+column_mapping = {"Height": "Height (m)", "Age": "Age (years)"}
+tree_data = tree_data.rename(columns=column_mapping)
+
+# Part (a): Scatterplot with one regression line for all data
+plt.figure(figsize=(8, 6))
+sns.lmplot(x="Age (years)", y="Height (m)", data=tree_data, ci=None, scatter_kws={'alpha':0.5})
+plt.title("Regression of Tree Height vs. Age (Overall)")
+plt.xlabel("Age (years)")
+plt.ylabel("Height (m)")
+plt.show()
+
+# Part (b): Scatterplot with separate regression lines for each species
+plt.figure(figsize=(8, 6))
+sns.lmplot(x="Age (years)", y="Height (m)", hue="Species", data=tree_data, ci=None, scatter_kws={'alpha':0.5})
+plt.title("Regression of Tree Height vs. Age (By Species)")
+plt.xlabel("Age (years)")
+plt.ylabel("Height (m)")
+plt.show()
+```
 ### Output
