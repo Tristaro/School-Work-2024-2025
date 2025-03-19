@@ -63,7 +63,11 @@ plt.show()
 ![[Screenshot 2025-03-18 221902.png]]
 
 ## Question 5
+a) The slope (m) represents how much the height of a tree increases per year.
+The intercept (b) represents the predicted height of a tree when its age is zero.
 
+b) - If r<sup>2</sup>is **high** (close to 1), it means **tree height is strongly correlated with age**.
+- If r2r^2r2 is **low**, it means **other factors affect height more than age does**.
 ### Code
 
 ### Output
