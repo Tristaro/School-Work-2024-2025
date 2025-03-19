@@ -76,7 +76,67 @@ c)
 - **Interpretation of the intercept:**
     - If b=1.2, it means that at **age 0**, a Maple tree is **expected to be 1.2 meters tall**.
 ### Code
+```python
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
 
+# Load dataset
+file_path = "Trees.csv"
+tree_data = pd.read_csv(file_path)
+
+# Rename columns to match actual dataset
+column_mapping = {"Height": "Height (m)", "Age": "Age (years)"}
+tree_data = tree_data.rename(columns=column_mapping)
+
+# Extract independent (Age) and dependent (Height) variables
+age = tree_data["Age (years)"].values
+height = tree_data["Height (m)"].values
+
+# Part (a): Perform linear regression using numpy
+slope, intercept = np.polyfit(age, height, 1)
+print(f"Overall Regression: Height = {slope:.4f} * Age + {intercept:.4f}")
+
+# Part (b): Compute r^2
+predicted_height = slope * age + intercept
+ss_total = np.sum((height - np.mean(height)) ** 2)
+ss_residual = np.sum((height - predicted_height) ** 2)
+r_squared = 1 - (ss_residual / ss_total)
+print(f"Coefficient of Determination (r^2): {r_squared:.4f}")
+
+# Function to perform regression for a specific species
+def species_regression(species_name):
+    species_data = tree_data[tree_data["Species"] == species_name]
+    age_species = species_data["Age (years)"].values
+    height_species = species_data["Height (m)"].values
+    
+    slope_species, intercept_species = np.polyfit(age_species, height_species, 1)
+    
+    predicted_species_height = slope_species * age_species + intercept_species
+    ss_total_species = np.sum((height_species - np.mean(height_species)) ** 2)
+    ss_residual_species = np.sum((height_species - predicted_species_height) ** 2)
+    r2_species = 1 - (ss_residual_species / ss_total_species)
+    
+    print(f"{species_name} Regression: Height = {slope_species:.4f} * Age + {intercept_species:.4f}")
+    print(f"{species_name} r^2: {r2_species:.4f}\n")
+    
+    # Plot scatter and regression line
+    plt.figure(figsize=(8, 6))
+    plt.scatter(age_species, height_species, color='blue', label=f'{species_name} Data')
+    plt.plot(age_species, predicted_species_height, color='red', label='Regression Line')
+    plt.xlabel("Age (years)")
+    plt.ylabel("Height (m)")
+    plt.title(f"Regression of Height vs. Age for {species_name}")
+    plt.legend()
+    plt.show()
+
+# Part (c): Maple tree regression
+species_regression("Maple")
+
+# Part (d): Oak and Pine tree regression
+species_regression("Oak")
+species_regression("Pine")
+```
 ### Output
 
 
