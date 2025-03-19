@@ -101,13 +101,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MediaCom/Test.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Test"
+              "title": "Outline"
             }
           }
         ]
