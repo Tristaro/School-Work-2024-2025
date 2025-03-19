@@ -49,7 +49,7 @@ modified_length = fish_data["Length (in cm)"].values
 modified_r_value, _ = pearsonr(modified_length, weight)
 print(f"Modified Pearson correlation coefficient: {modified_r_value:.6f}")
 
-# Part (d): Scatterplot after modification (optional)
+# Part (d): Scatterplot after modification (extra I did for visualization)
 plt.figure(figsize=(8, 6))
 plt.scatter(modified_length, weight, color='blue', edgecolors='black', alpha=0.7)
 plt.xlabel("Length (cm)")
@@ -57,4 +57,13 @@ plt.ylabel("Weight (grams)")
 plt.title("Scatterplot of Fish Length vs. Weight (Modified)")
 plt.show()
 ```
+### Output
+![[Screenshot 2025-03-18 221833.png]]
+![[Screenshot 2025-03-18 221845.png]]
+![[Screenshot 2025-03-18 221902.png]]
+
+## Question 5
+
+### Code
+
 ### Output
