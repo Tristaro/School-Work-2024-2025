@@ -25,12 +25,14 @@
             "id": "3e0eeff58c34fa57",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.9"
+                "file": "DataScience/Assignment 3/Assignment 3.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.9"
+              "icon": "lucide-file",
+              "title": "Assignment 3"
             }
           }
         ],
@@ -101,12 +103,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "DataScience/Assignment 3/Assignment 3.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Assignment 3"
             }
           }
         ]
@@ -202,6 +205,12 @@
   },
   "active": "3e0eeff58c34fa57",
   "lastOpenFiles": [
+    "DataScience/Assignment 1/Assignment 1.md",
+    "DataScience/Assignment 3/Assignment 3.md",
+    "DataScience/Assignment 3/Figures",
+    "DataScience/DS1000 Midterm Cheat Sheet.md",
+    "DataScience/Assignment 1/DS1000 Midterm Cheat Sheet Compressed.md",
+    "DataScience/Assignment 3",
     "MediaCom/Group Project/Media Com Group Project - Personal Reflection - Tristan Braganza.md",
     "MediaCom/Test.md",
     "MediaCom/Group Project/Media Com Group Project - Collaboration Reflection - Tristan Braganza.md",
@@ -218,14 +227,11 @@
     "MediaCom/Group Project/Media Com Group - Project Script - Tristan Braganza.md",
     "MediaCom/Group Project/Slides Outline.md",
     "MediaCom/Quiz 3 Notes.md",
-    "DataScience/DS1000 Midterm Cheat Sheet.md",
     "DataScience/Assignment 1/Figures/Figure (4).jpg",
     "DataScience/Assignment 1/Figures/Figure (13).jpg",
     "DataScience/Assignment 1/Figures/Figure (9).jpg",
     "DataScience/Assignment 1/Figures/Figure (8).jpg",
     "DataScience/Assignment 1/Figures/Figure (10).jpg",
-    "DataScience/Assignment 1/Assignment 1.md",
-    "DataScience/Assignment 1/DS1000 Midterm Cheat Sheet Compressed.md",
     "Linear Algebra/README.md",
     "README.md",
     "test.md",
@@ -243,11 +249,8 @@
     "Linear Algebra/Section 1/Section 1.1.md",
     "Linear Algebra/Section 1/Figures/Figure 1.md",
     "Linear Algebra/Section 1/README.md",
-    "Data Science/Figures",
-    "MediaCom",
     "Templates/SubScript.md",
     "Linear Algebra/Section 1/Section 1.4.md",
-    "Excalidraw/Drawing 2025-01-22 01.08.36.excalidraw.md",
     "School/Linear Algebra/Untitled.canvas"
   ]
 }
