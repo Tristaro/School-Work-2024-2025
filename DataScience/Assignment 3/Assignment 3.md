@@ -143,6 +143,7 @@ species_regression("Pine")
 ![[Screenshot 2025-03-18 224349.png]]
 ![[Screenshot 2025-03-18 224400.png]]
 ## Question 6
+a)
 
 ### Code
 ```python
@@ -175,3 +176,5 @@ plt.ylabel("Height (m)")
 plt.show()
 ```
 ### Output
+![[Screenshot 2025-03-18 225255.png]]
+![[Screenshot 2025-03-18 225311.png]]
