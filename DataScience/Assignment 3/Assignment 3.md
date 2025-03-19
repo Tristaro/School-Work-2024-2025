@@ -138,8 +138,10 @@ species_regression("Oak")
 species_regression("Pine")
 ```
 ### Output
-
-
+![[Screenshot 2025-03-18 224334.png]]
+![[Screenshot 2025-03-18 224342.png]]
+![[Screenshot 2025-03-18 224349.png]]
+![[Screenshot 2025-03-18 224400.png]]
 ## Question 6
 
 ### Code
