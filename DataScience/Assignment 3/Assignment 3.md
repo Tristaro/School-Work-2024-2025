@@ -66,8 +66,8 @@ plt.show()
 a) The slope (m) represents how much the height of a tree increases per year.
 The intercept (b) represents the predicted height of a tree when its age is zero.
 
-b) The **coefficient of determination (r2)** measures how well the model explains the variation in height based on age.
-- A value of **r2=1r^2 = 1r2=1** means the model **perfectly predicts height**, while **r2=0r^2 = 0r2=0** means age does not explain height at all.
+b) The **coefficient of determination (r<sup>2</sup>)** measures how well the model explains the variation in height based on age.
+- A value of **r<sup>2</sup>= 1** means the model **perfectly predicts height**, while **r2=0r^2 = 0r2=0** means age does not explain height at all.
 - If r<sup>2</sup>is **high** (close to 1), it means ree height is strongly correlated with age
 - If r<sup>2</sup> is **low**, it means other factors affect height more than age does.
 ### Code
