@@ -143,8 +143,7 @@ species_regression("Pine")
 ![[Screenshot 2025-03-18 224349.png]]
 ![[Screenshot 2025-03-18 224400.png]]
 ## Question 6
-a)
-
+c)
 ### Code
 ```python
 import pandas as pd
