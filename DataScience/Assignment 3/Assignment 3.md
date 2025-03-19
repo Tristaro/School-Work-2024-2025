@@ -13,7 +13,11 @@ b) The Pearson correlation coefficient r between fish length and weight is 0.996
 Since r ≈ 1, there is a very strong positive linear relationship between length and weight.
 This means that as fish length increases, weight also increases almost perfectly linearly.
 
-c)
+c) After changing the length of ID = 10 to 49.2 cm, the new Pearson correlation coefficient (r) is 0.923.
+The correlation decreased from 0.996 to 0.923.
+This means the relationship between length and weight is still strongly positive, but less perfect than before.
+The modification introduced an outlier (a fish with an unusual length-to-weight ratio), reducing the overall linearity of the data.
+
 
 ```python
 # Load dataset
