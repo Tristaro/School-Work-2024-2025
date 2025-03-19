@@ -67,3 +67,10 @@ plt.show()
 ### Code
 
 ### Output
+
+
+## Question 6
+
+### Code
+
+### Output
