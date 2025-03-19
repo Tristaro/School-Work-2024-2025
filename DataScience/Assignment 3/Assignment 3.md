@@ -143,7 +143,13 @@ species_regression("Pine")
 ![[Screenshot 2025-03-18 224349.png]]
 ![[Screenshot 2025-03-18 224400.png]]
 ## Question 6
-c)
+c) Yes, the results **demonstrate Simpson’s paradox**
+1. **Overall Regression (Top Graph)**
+   - The regression line for **all trees combined** shows a **negative** relationship between **age and height** (sloping downward).
+   - This suggests that as trees get older, their height decreases, which **contradicts biological expectations**.
+1. **Species-Specific Regression (Bottom Graph)**
+   - Each **species-level regression line** shows a **positive** relationship (upward slope).
+   - This means that within **each species**, trees **grow taller as they age**, which aligns with expectations.
 ### Code
 ```python
 import pandas as pd
