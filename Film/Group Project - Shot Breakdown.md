@@ -86,4 +86,7 @@ Transition: Straight cut.
 Pattern: Continues alternating shots between John driving and the green car being followed. 
 
 Shot 6
-Stting Same as Shot 4 
+Mise-en-scène same as Shot 4
+Staging & Performance: The green car turns left.
+
+
