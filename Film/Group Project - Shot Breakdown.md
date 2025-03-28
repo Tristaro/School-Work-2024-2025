@@ -1,3 +1,4 @@
+Shot 1
 Setting: Interior of a parked car. The background is out of focus so the exact location is unclear.
 Lighting: Naturalistic daylight (high-key lighting) entering through car windows.
 Costume: John wears a dark-colored blazer and a white shirt, formal, typical of male attire during that period as well as consistent with his role as a former detective.
@@ -16,7 +17,7 @@ Transition: Straight cut from black or previous unseen scene (since it’s the f
 
 Ambient Music sounds as if it is waiting for something to happen.
 
-
+Shot 2
 Setting: Urban street in front of a hotel
 Lighting: High-key daylight again, with crisp shadows and clear visibility. The lighting gives a neutral, realistic feel to the scene.
 Costume: Not clearly visible for the drivers or pedestrians, but Madeleine’s green car (a distinctive color) stands out among neutral-toned surroundings.
@@ -34,7 +35,7 @@ Transition: Straight cut from John’s POV to exterior. This might suggest a pos
 Relationship to next shot: Establishes spatial context and the green car as an object of attention, which will become important in the following shots.
 Pattern: Introduces recurring motif of the green car in motion
 
- 
+ Shot 3
 Setting: Same interior of John’s parked car.
 Mise-en-scène same as Shot 1.
 Staging & Performance: John looks up and slightly right (tracking the green car’s movement offscreen) and shifts his posture as if to get ready to follow.
@@ -51,7 +52,7 @@ Transition: Straight cut; again evokes an eyeline match or subjective perspectiv
 Continuity: Keeps time with the green car’s motion in the previous shot
 Pattern: Continues to show signs of surveillance and pursuit.
 
-
+Shot 4
 Setting: Exterior street (same area as Shot 2). We now see the street from the front windshield view—buildings, sidewalk, and the rear of the green car.
 Lighting: Still high-key daylight—realistic and natural, no stylistic filters.
 Costume & Makeup: Characters in the green car are not clearly visible; main emphasis is on the vehicle itself. 
@@ -67,7 +68,7 @@ Duration: 5 seconds
 Transition: Straight cut. Because Shot 3 ends with John shifting and preparing, this shot serves as the payoff to that setup. 
 Pattern: First direct POV tracking shot of the green car.
  
-
+Shot 5
 Setting: same environment as Shots 1 and 3, but now the car is in motion.
 Lighting: Still using natural daylight, diffused through the windshield and side windows. Lighting stays soft, no harsh shadows or strong contrast.
 Costume & Makeup: Same formal clothing as previous shots. 
@@ -84,3 +85,5 @@ Duration: 5 seconds
 Transition: Straight cut.
 Pattern: Continues alternating shots between John driving and the green car being followed. 
 
+Shot 6
+Stting Same as Shot 4 
