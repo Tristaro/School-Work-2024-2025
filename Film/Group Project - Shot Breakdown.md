@@ -2,6 +2,7 @@ Setting: Interior of a parked car. The background is out of focus so the exact l
 Lighting: Naturalistic daylight (high-key lighting) entering through car windows.
 Costume: John wears a dark-colored blazer and a white shirt, formal, typical of male attire during that period as well as consistent with his role as a former detective.
 Staging & Performance: John is seated in the driver’s seat reading a newspaper as he turns around as if to look for someone or something. 
+
 Shot Type: Medium close-up from the passenger side window (camera is outside the car, looking in).
 Exposure: Normal, natural daylight
 Focus: Shallow depth of field. The background is soft, which directs 
@@ -60,14 +61,11 @@ Pattern: First direct POV tracking shot of the green car.
  
 
 
-Setting: Interior of John's moving car, same environment as Shots 1 and 3, but now the car is in motion.
+Setting: same environment as Shots 1 and 3, but now the car is in motion.
 Lighting: Still using natural daylight, diffused through the windshield and side windows. Lighting stays soft, no harsh shadows or strong contrast.
+Costume & Makeup: Same formal clothing as previous shots. 
+Staging & Performance: John maintains a calm but focused demeanor. His eyes are locked forward.
 
-Costume & Makeup: Same formal clothing as previous shots. Makeup remains subtle and realistic.
-
-Staging & Performance: John’s performance is restrained—he maintains a calm but focused demeanor. His eyes are locked forward, implying attention on the green car ahead. Slight steering movement or body adjustment may occur, but his posture stays composed.
-
-Cinematography
 Shot Type: Medium close-up (similar to Shot 3), focused on John's face and upper torso.
 
 Exposure: Balanced, normal exposure.
