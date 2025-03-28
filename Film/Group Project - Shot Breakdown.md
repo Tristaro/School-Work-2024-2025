@@ -314,6 +314,7 @@
 - Ambient music sustains mood of suspense and pursuit.
 
 
+## 
 Shot 1
 Setting: Interior of a parked car. The background is out of focus so the exact location is unclear.
 Lighting: Naturalistic daylight (high-key lighting) entering through car windows.
