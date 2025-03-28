@@ -84,65 +84,41 @@
 - **Staging & Performance:** Green car drives away in frame.
 
 **Cinematography**
-
 - **Shot Type:** Static POV ➝ moving POV.
 - **Exposure:** Normal.
-    
 - **Speed:** Real-time.
-    
 - **Focus:** Deep focus—green car visible clearly.
-    
 - **Framing:** Green car center-frame.
-    
 - **Camera Movement:** Static ➝ slow forward movement.
-    
 - **Duration:** 5 seconds
-    
 
 **Editing**
-
 - **Transition:** Straight cut, reaction payoff from Shot 3.
-    
 - **Pattern:** First POV tracking shot.
-    
 
 **Sound**
-
 - Tension-filled ambient music continues.
-    
 
 ---
 
 ### **SHOT 5** (00:17–00:22)
 
 **Mise-en-Scène**
-
 - **Same as Shots 1 & 3, but car is now moving.**
-    
 - **Staging & Performance:** John’s gaze is focused ahead.
-    
 
 **Cinematography**
-
 - **Shot Type:** Medium close-up.
-    
 - **Exposure:** Normal.
-    
 - **Speed:** Real-time.
-    
 - **Focus:** Shallow depth of field.
-    
 - **Framing:** John slightly right of center.
-    
 - **Camera Movement:** Stable/mounted.
-    
 - **Duration:** 5 seconds
-    
 
 **Editing**
 
 - **Transition:** Straight cut.
-    
 - **Pattern:** Alternating POV ➝ reaction continues.
     
 
@@ -342,53 +318,30 @@
 - **Transition:** Straight cut from John.
     
 - **Pattern:** Car turns = new directional POV shot.
-    
 
 **Sound**
-
 - Tension remains steady in the score.
-    
 
 ---
 
 ### **SHOT 11** (00:40–00:47)
 
 **Mise-en-Scène**
-
 - **Same as Shot 7**
-    
 - **Staging & Performance:** John reacts to turn, follows path.
-    
 
 **Cinematography**
-
 - **Shot Type:** Medium close-up.
-    
 - **Exposure:** Normal.
-    
 - **Speed:** Real-time.
-    
 - **Focus:** Shallow.
-    
 - **Framing:** John possibly glances right.
-    
 - **Camera Movement:** Static.
-    
 - **Duration:** 7 seconds
-    
 
 **Editing**
-
 - **Transition:** Straight cut from POV.
-    
 - **Pattern:** Longer take emphasizes lingering tension.
-    
 
 **Sound**
-
 - Ambient music sustains mood of suspense and pursuit.
-    
-
----
-
-Let me know if you want this copy-pasted into a Word or Google Doc–friendly format, or if you’d like help dropping it into the assignment’s shot chart template.
