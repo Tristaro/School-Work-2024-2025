@@ -115,9 +115,20 @@ Camera Movement: Static or slightly stabilized mounted camera. The background sh
 Duration: 6 seconds—long enough to show full completion of the turn and track John’s attention visually and emotionally.
 
 Transition from Shot 6: Straight cut. Another eyeline match—John sees the green car turn, and now we see him make the corresponding turn.
-
 Relationship to previous/next shots: The structure continues the pattern of alternating POV ➝ John reaction ➝ POV ➝ John reaction, reinforcing the pursuit rhythm and character alignment.
-
 Continuity: Maintains precise spatial and directional consistency—this turn follows exactly from the green car’s turn in Shot 6.
-
 Pattern: This back-and-forth rhythm is now clearly established as the stylistic norm for the scene. It mimics real surveillance and builds suspense without needing any action beyond the act of following.
+
+Shot 8
+Mise-en-Scène: Same as Shot 6. Urban street, possibly steeper terrain now visible.
+Cinematography: Medium-long POV shot through windshield; green car remains center-frame. Smooth camera movement mimics downhill driving.
+Editing: Straight cut from Shot 7. Continues the alternating rhythm. Maintains spatial continuity and John’s pursuit perspective.
+
+Shot 9
+
+
+Shot 10
+
+
+Shot 11
+
