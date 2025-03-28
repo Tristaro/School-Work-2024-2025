@@ -89,4 +89,12 @@ Shot 6
 Mise-en-scène same as Shot 4
 Staging & Performance: The green car turns left.
 
+Shot Type: Medium-long POV shot through the windshield.
+Exposure: Normal daylight exposure.
+Speed: Real-time/Normal
+Focus: Deep focus/Midrange depth
+Camera Movement: Mostly static with a slight shift to the left as the car turns
+Duration: 3 seconds
+
+
 
