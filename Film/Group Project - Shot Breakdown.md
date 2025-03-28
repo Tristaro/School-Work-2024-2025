@@ -35,6 +35,8 @@ Transition: Straight cut from John’s POV to exterior. This might suggest a pos
 Relationship to next shot: Establishes spatial context and the green car as an object of attention, which will become important in the following shots.
 Pattern: Introduces recurring motif of the green car in motion
 
+Ambient Music sounds as if it is waiting for something to happen.
+
  Shot 3
 Setting: Same interior of John’s parked car.
 Mise-en-scène same as Shot 1.
@@ -52,6 +54,8 @@ Transition: Straight cut; again evokes an eyeline match or subjective perspectiv
 Continuity: Keeps time with the green car’s motion in the previous shot
 Pattern: Continues to show signs of surveillance and pursuit.
 
+Ambient Music sounds as if it is waiting for something to happen.
+
 Shot 4
 Setting: Exterior street (same area as Shot 2). We now see the street from the front windshield view—buildings, sidewalk, and the rear of the green car.
 Lighting: Still high-key daylight—realistic and natural, no stylistic filters.
@@ -67,7 +71,9 @@ Duration: 5 seconds
 
 Transition: Straight cut. Because Shot 3 ends with John shifting and preparing, this shot serves as the payoff to that setup. 
 Pattern: First direct POV tracking shot of the green car.
- 
+
+Ambient Music sounds as if it is waiting for something to happen.
+
 Shot 5
 Setting: same environment as Shots 1 and 3, but now the car is in motion.
 Lighting: Still using natural daylight, diffused through the windshield and side windows. Lighting stays soft, no harsh shadows or strong contrast.
@@ -85,6 +91,8 @@ Duration: 5 seconds
 Transition: Straight cut.
 Pattern: Continues alternating shots between John driving and the green car being followed. 
 
+Ambient Music sounds as if it is waiting for something to happen.
+
 Shot 6
 Mise-en-scène same as Shot 4
 Staging & Performance: The green car turns left.
@@ -100,6 +108,8 @@ Transition: Straight cut
 Continuity: Maintains seamless real-time action.
 Pattern: Each time the green car changes direction, we see it from John’s POV.
 
+Ambient Music sounds as if it is waiting for something to happen.
+
 Shot 7
 Setting: Inside John’s car, now actively turning at an intersection.
 Lighting: Daylight through the windshield and side windows. Naturalistic lighting stays consistent
@@ -114,24 +124,30 @@ Camera Movement: Static
 Duration: 6 seconds
 
 Transition: Straight cut. Another eyeline match, John sees the green car turn, and now we see him make that turn.
-Relationship to previous/next shots: 
 Pattern: The structure continues the pattern of alternating POV ➝ John reaction ➝ POV ➝ John reaction.
+
+Ambient Music sounds as if it is waiting for something to happen.
+
 Shot 8
 Mise-en-Scène: Same as Shot 6. Urban street, possibly steeper terrain now visible.
 Cinematography: Medium-long POV shot through windshield; green car remains center-frame. Smooth camera movement mimics downhill driving.
 Editing: Straight cut from Shot 7. Continues the alternating rhythm. Maintains spatial continuity and John’s pursuit perspective.
+Ambient Music sounds as if it is waiting for something to happen.
 
 Shot 9
 Mise-en-Scène: Same as Shot 7. Interior of John’s car, lighting and costume unchanged.
 Cinematography: Medium close-up; background still blurred. Camera stable, John focused.
 Editing: Straight cut. Eyeline match logic continues—his POV ➝ him reacting ➝ repeat.
+Ambient Music sounds as if it is waiting for something to happen.
 
 Shot 10
 Mise-en-Scène: Same urban setting; new directional movement.
 Cinematography: Medium-long POV shot again, now curving toward the right. Framing tilts slightly to follow the green car’s motion.
 Editing: Continuation of the previous POV➝John➝POV loop. Maintains real-time flow.
+Ambient Music sounds as if it is waiting for something to happen.
 
 Shot 11
 Mise-en-Scène: Same interior setup, lighting, and costume.
 Cinematography: Medium close-up again. John may glance slightly to the right as he turns.
 Editing: Straight cut from POV to reaction. This long take (7 seconds) allows more time with John, emphasizing tension and sustained pursuit.
+Ambient Music sounds as if it is waiting for something to happen.
