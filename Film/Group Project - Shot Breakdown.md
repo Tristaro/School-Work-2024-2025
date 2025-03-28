@@ -59,3 +59,34 @@ Transition: Straight cut. Because Shot 3 ends with John shifting and preparing, 
 Pattern: First direct POV tracking shot of the green car.
  
 
+
+Setting: Interior of John's moving car, same environment as Shots 1 and 3, but now the car is in motion.
+Lighting: Still using natural daylight, diffused through the windshield and side windows. Lighting stays soft, no harsh shadows or strong contrast.
+
+Costume & Makeup: Same formal clothing as previous shots. Makeup remains subtle and realistic.
+
+Staging & Performance: John’s performance is restrained—he maintains a calm but focused demeanor. His eyes are locked forward, implying attention on the green car ahead. Slight steering movement or body adjustment may occur, but his posture stays composed.
+
+Cinematography
+Shot Type: Medium close-up (similar to Shot 3), focused on John's face and upper torso.
+
+Exposure: Balanced, normal exposure.
+
+Speed: Real-time.
+
+Focus: Shallow depth of field—John’s face is in sharp focus while the background through the car windows is blurred (bokeh effect), emphasizing his internal state and detaching us from the external world.
+
+Framing: John is centered or slightly right of center in the frame. The static camera reinforces his steady, composed mindset.
+
+Camera Movement: Likely a mounted camera inside the car; stable, no handheld shake.
+
+Duration: 5 seconds—enough to sit with John and emphasize his internal shift from passive observer to active pursuer.
+
+Editing
+Transition from Shot 4: Straight cut, returning from a POV external following shot to an internal subjective view—John’s emotional perspective. Keeps up the back-and-forth rhythm of “what he sees” vs. “how he feels.”
+
+Relationship to next shots: Likely to cut back to the green car soon, reinforcing the surveillance-follow pattern.
+
+Continuity: Editing keeps the action flowing in real time—his expressions match the tempo and tone of the pursuit.
+
+Pattern: Continues alternating shots between John driving and the green car being followed. Keeps viewer aligned with both his literal and emotional point of view.
