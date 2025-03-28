@@ -1,57 +1,33 @@
-## **
-
-### **Group Members:** _(Insert your names here)_
-
----
+## **Vertigo Shot Breakdown 1-11 (00:00–00:47)**
 
 ### **SHOT 1** (00:00–00:03)
 
 **Mise-en-Scène**
-
 - **Setting:** Interior of a parked car. Background is out of focus.
-    
 - **Lighting:** Naturalistic daylight (high-key) entering through windows.
-    
 - **Costume:** John wears a dark blazer and white shirt—typical 1950s formalwear.
-    
 - **Staging & Performance:** John is seated in the driver’s seat reading a newspaper; turns slightly as if to look for something.
-    
 
 **Cinematography**
-
 - **Shot Type:** Medium close-up, from outside the passenger window.
-    
 - **Exposure:** Normal.
-    
 - **Speed:** Regular.
-    
 - **Focus:** Shallow depth of field—background blurred.
-    
 - **Framing:** John is centered but slightly right.
-    
 - **Camera Movement:** Static.
-    
 - **Duration:** 3 seconds
-    
 
 **Editing**
-
 - **Transition:** Straight cut (first shot in sequence).
-    
 - **Pattern:** Establishes surveillance setup.
-    
 
 **Sound**
-
 - Ambient music plays subtly, as if waiting for something to happen.
-    
 
 ---
 
 ### **SHOT 2** (00:03–00:09)
-
 **Mise-en-Scène**
-
 - **Setting:** Street in front of a hotel.
     
 - **Lighting:** High-key daylight.
