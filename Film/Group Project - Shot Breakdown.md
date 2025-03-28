@@ -11,14 +11,17 @@ Framing: John is centered but slightly right of center.
 Camera Movement: Static shot. No movement 
 Duration: 3 seconds
 Speed: Regular motion, no slow motion or speed ramping.
+
 Transition: Straight cut from black or previous unseen scene (since it’s the first shot in the sequence).
 
-
 Ambient Music sounds as if it is waiting for something to happen.
+
+
 Setting: Urban street in front of a hotel
 Lighting: High-key daylight again, with crisp shadows and clear visibility. The lighting gives a neutral, realistic feel to the scene.
 Costume: Not clearly visible for the drivers or pedestrians, but Madeleine’s green car (a distinctive color) stands out among neutral-toned surroundings.
 Staging & Performance: The green car is initially parked in front of the hotel, then pulls out and drives slowly toward the camera. 
+
 Shot Type: Wide establishing shot—street view from a distance.
 Exposure: Normal, natural daylight
 Focus: Deep focus—both foreground and background details (buildings, cars, street) are visible and in focus.
@@ -26,10 +29,10 @@ Framing: Balanced horizontal framing with the green car entering center-left and
 Camera Movement: Static; the camera does not pan or track. The action (car movement) happens within the frame.
 Duration: 6 seconds
 Speed: Regular motion.
+
 Transition: Straight cut from John’s POV to exterior. This might suggest a possible eyeline match or continuation of John's gaze, even though it's not clearly from his physical perspective. The placement seems to imply that we are seeing what he might be watching. 
 Relationship to next shot: Establishes spatial context and the green car as an object of attention, which will become important in the following shots.
 Pattern: Introduces recurring motif of the green car in motion
-
 
  
 Setting: Same interior of John’s parked car.
