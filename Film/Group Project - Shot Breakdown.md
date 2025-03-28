@@ -96,5 +96,8 @@ Focus: Deep focus/Midrange depth
 Camera Movement: Mostly static with a slight shift to the left as the car turns
 Duration: 3 seconds
 
+Transition: Straight cut
+Continuity: Maintains seamless real-time action.
+Pattern: Each time the green car changes direction, we see it from John’s POV.
 
-
+Shot 7
