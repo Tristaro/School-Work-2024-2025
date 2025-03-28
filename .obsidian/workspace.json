@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MediaCom/2025-03-26.md",
+                "file": "Film/Group Project - Shot Breakdown.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-03-26"
+              "title": "Group Project - Shot Breakdown"
             }
           }
         ],
@@ -103,13 +103,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MediaCom/2025-03-26.md",
+                "file": "Film/Group Project - Shot Breakdown.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-03-26"
+              "title": "Outline of Group Project - Shot Breakdown"
             }
           }
         ]
@@ -203,10 +203,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "938004a51dc2fa10",
+  "active": "3e0eeff58c34fa57",
   "lastOpenFiles": [
-    "DataScience/Assignment 3/Assignment 3.md",
     "MediaCom/2025-03-26.md",
+    "Film/Group Project - Shot Breakdown.md",
+    "Film",
+    "Data Science/Assignment 1/Figures/Figure()..md",
+    "DataScience/Assignment 3/Assignment 3.md",
     "DataScience/Assignment 3/Figures/Screenshot 2025-03-18 225311.png",
     "DataScience/Assignment 3/Figures/Screenshot 2025-03-18 225255.png",
     "DataScience/Assignment 3/Figures/Screenshot 2025-03-18 224334.png",
@@ -237,20 +240,17 @@
     "README.md",
     "test.md",
     "MediaCom/Group Project",
-    "Data Science/Assignment 1/Figures/Figure()..md",
     "Data Science/Assignment 1/Figures",
     "Data Science/Assignment 1",
     "Data Science",
     "DataScience/Assignment 1/Figures",
     "DataScience/Assignment 1",
-    "DataScience",
     "Data Science/Figures/Question 1.md",
     "Data Science/Assignment 1.md",
     "Excalidraw/Drawing 2025-02-02 19.36.47.excalidraw.md",
     "Linear Algebra/Section 1/Section 1.1.md",
     "Linear Algebra/Section 1/Figures/Figure 1.md",
     "Linear Algebra/Section 1/README.md",
-    "Templates/SubScript.md",
     "School/Linear Algebra/Untitled.canvas"
   ]
 }
