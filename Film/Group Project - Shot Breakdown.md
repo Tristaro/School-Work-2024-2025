@@ -234,89 +234,56 @@
     
 
 **Editing**
-
 - **Transition:** Straight cut from John.
-    
 - **Pattern:** Maintains visual rhythm of pursuit.
-    
 
 **Sound**
-
 - Ambient music sustains tension.
-    
 
 ---
 
 ### **SHOT 9** (00:34–00:37)
 
 **Mise-en-Scène**
-
 - **Same as Shot 7**
-    
 - **Staging & Performance:** John remains focused, following.
-    
 
 **Cinematography**
-
 - **Shot Type:** Medium close-up.
-    
 - **Exposure:** Normal.
-    
 - **Speed:** Real-time.
-    
 - **Focus:** Shallow.
-    
 - **Framing:** John center-right.
-    
 - **Camera Movement:** Stable.
-    
 - **Duration:** 3 seconds
     
 
 **Editing**
-
 - **Transition:** Straight cut.
-    
 - **Pattern:** Alternating POV ➝ reaction structure repeats.
-    
 
 **Sound**
-
 - Consistent ambient score, no shift.
-    
 
 ---
 
 ### **SHOT 10** (00:37–00:40)
 
 **Mise-en-Scène**
-
 - **Same as Shot 6**
-    
 - **Staging & Performance:** Green car turns **right**.
-    
 
 **Cinematography**
-
 - **Shot Type:** Medium-long POV.
-    
 - **Exposure:** Normal.
-    
 - **Speed:** Real-time.
-    
 - **Focus:** Deep focus.
-    
 - **Framing:** Car curves right.
-    
 - **Camera Movement:** Slight follow to the right.
-    
 - **Duration:** 3 seconds
-    
 
 **Editing**
-
 - **Transition:** Straight cut from John.
-    
 - **Pattern:** Car turns = new directional POV shot.
 
 **Sound**
