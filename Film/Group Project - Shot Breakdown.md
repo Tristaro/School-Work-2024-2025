@@ -81,7 +81,5 @@ Framing: John is centered/slightly right of center in the frame.
 Camera Movement: stable
 Duration: 5 seconds
 
-Transition: Straight cut, returning from a POV external following shot to an internal subjective view—John’s emotional perspective. Keeps up the back-and-forth rhythm of “what he sees” vs. “how he feels.”
-Relationship to next shots: Likely to cut back to the green car soon, reinforcing the surveillance-follow pattern.
-Continuity: Editing keeps the action flowing in real time—his expressions match the tempo and tone of the pursuit.
+Transition: Straight cut.
 Pattern: Continues alternating shots between John driving and the green car being followed. Keeps viewer aligned with both his literal and emotional point of view.
