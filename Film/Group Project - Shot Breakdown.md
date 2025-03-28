@@ -109,16 +109,13 @@ Staging & Performance: John looks slightly left and turns the steering wheel wit
 Shot Type: Medium close-up inside the car. Similar angle to Shot 5 but with more physical motion.
 Exposure: Normal.
 Speed: Real-time
-Focus: Shallow depth of field—sharp on John, background through the windows remains blurred due to motion and lens choice.
-Framing: John is slightly off-center, facing toward the left of the frame to match the car’s movement. His movement and the turn give the composition dynamic energy.
-Camera Movement: Static or slightly stabilized mounted camera. The background shifts as the car turns, enhancing the sense of movement even if the camera itself stays fixed.
-Duration: 6 seconds—long enough to show full completion of the turn and track John’s attention visually and emotionally.
+Focus: Shallow depth of field
+Camera Movement: Static 
+Duration: 6 seconds
 
-Transition from Shot 6: Straight cut. Another eyeline match—John sees the green car turn, and now we see him make the corresponding turn.
-Relationship to previous/next shots: The structure continues the pattern of alternating POV ➝ John reaction ➝ POV ➝ John reaction, reinforcing the pursuit rhythm and character alignment.
-Continuity: Maintains precise spatial and directional consistency—this turn follows exactly from the green car’s turn in Shot 6.
-Pattern: This back-and-forth rhythm is now clearly established as the stylistic norm for the scene. It mimics real surveillance and builds suspense without needing any action beyond the act of following.
-
+Transition: Straight cut. Another eyeline match, John sees the green car turn, and now we see him make that turn.
+Relationship to previous/next shots: 
+Pattern: The structure continues the pattern of alternating POV ➝ John reaction ➝ POV ➝ John reaction.
 Shot 8
 Mise-en-Scène: Same as Shot 6. Urban street, possibly steeper terrain now visible.
 Cinematography: Medium-long POV shot through windshield; green car remains center-frame. Smooth camera movement mimics downhill driving.
