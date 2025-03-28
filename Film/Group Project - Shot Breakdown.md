@@ -82,4 +82,5 @@ Camera Movement: stable
 Duration: 5 seconds
 
 Transition: Straight cut.
-Pattern: Continues alternating shots between John driving and the green car being followed. Keeps viewer aligned with both his literal and emotional point of view.
+Pattern: Continues alternating shots between John driving and the green car being followed. 
+
