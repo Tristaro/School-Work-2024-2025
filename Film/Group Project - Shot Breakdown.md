@@ -101,3 +101,23 @@ Continuity: Maintains seamless real-time action.
 Pattern: Each time the green car changes direction, we see it from John’s POV.
 
 Shot 7
+Setting: Inside John’s car, now actively turning at an intersection.
+Lighting: Daylight through the windshield and side windows. Naturalistic lighting stays consistent—nothing dramatic, but functional and realistic.
+Costume & Makeup: Same as previous shots—dark blazer, white shirt, minimal makeup.
+Staging & Performance: John looks slightly left and turns the steering wheel with purpose. His body shifts with the car’s turn. He’s calm but clearly focused, still without dialogue or exaggerated motion.
+
+Shot Type: Medium close-up inside the car. Similar angle to Shot 5 but with more physical motion.
+Exposure: Normal.
+Speed: Real-time.
+Focus: Shallow depth of field—sharp on John, background through the windows remains blurred due to motion and lens choice.
+Framing: John is slightly off-center, facing toward the left of the frame to match the car’s movement. His movement and the turn give the composition dynamic energy.
+Camera Movement: Static or slightly stabilized mounted camera. The background shifts as the car turns, enhancing the sense of movement even if the camera itself stays fixed.
+Duration: 6 seconds—long enough to show full completion of the turn and track John’s attention visually and emotionally.
+
+Transition from Shot 6: Straight cut. Another eyeline match—John sees the green car turn, and now we see him make the corresponding turn.
+
+Relationship to previous/next shots: The structure continues the pattern of alternating POV ➝ John reaction ➝ POV ➝ John reaction, reinforcing the pursuit rhythm and character alignment.
+
+Continuity: Maintains precise spatial and directional consistency—this turn follows exactly from the green car’s turn in Shot 6.
+
+Pattern: This back-and-forth rhythm is now clearly established as the stylistic norm for the scene. It mimics real surveillance and builds suspense without needing any action beyond the act of following.
