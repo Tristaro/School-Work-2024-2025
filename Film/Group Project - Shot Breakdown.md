@@ -38,6 +38,7 @@ Pattern: Introduces recurring motif of the green car in motion
 Setting: Same interior of John’s parked car.
 Mise-en-scène same as Shot 1.
 Staging & Performance: John looks up and slightly right (tracking the green car’s movement offscreen) and shifts his posture as if to get ready to follow.
+
 Shot Type: Medium close-up
 Exposure: Normal, natural daylight
 Focus: Same as Shot 1, 
@@ -45,24 +46,27 @@ Framing: Framed through the passenger window again; John is now closer to the ce
 Camera Movement: Static camera.
 Duration: 4 seconds
 Speed: Regular motion
+
 Transition: Straight cut; again evokes an eyeline match or subjective perspective. Though we never literally see his POV, the visual sequence creates a sense of continuity between what John sees (green car leaving hotel) and how he reacts.
 Continuity: Keeps time with the green car’s motion in the previous shot
 Pattern: Continues to show signs of surveillance and pursuit.
- 
+
+
 Setting: Exterior street (same area as Shot 2). We now see the street from the front windshield view—buildings, sidewalk, and the rear of the green car.
 Lighting: Still high-key daylight—realistic and natural, no stylistic filters.
 Costume & Makeup: Characters in the green car are not clearly visible; main emphasis is on the vehicle itself. 
 Staging & Performance: The green car drives steadily down the street. There is no visible performance from John, it’s implied via the movement of the car and the POV framing.
+
 Shot Type: Begins as a static POV shot from inside John’s car (windshield framing), then becomes a moving POV shot as the car pulls out to follow.
 Exposure: Normal daylight.
 Speed: Real-time/Normal
 Focus: Deep focus—the green car is clearly visible in midground, background buildings are also legible.
 Camera Movement: Static for the first second or two, then a smooth forward movement begins
 Duration: 5 seconds
+
 Transition: Straight cut. Because Shot 3 ends with John shifting and preparing, this shot serves as the payoff to that setup. 
 Pattern: First direct POV tracking shot of the green car.
  
-
 
 Setting: same environment as Shots 1 and 3, but now the car is in motion.
 Lighting: Still using natural daylight, diffused through the windshield and side windows. Lighting stays soft, no harsh shadows or strong contrast.
@@ -70,24 +74,14 @@ Costume & Makeup: Same formal clothing as previous shots.
 Staging & Performance: John maintains a calm but focused demeanor. His eyes are locked forward.
 
 Shot Type: Medium close-up (similar to Shot 3), focused on John's face and upper torso.
-
 Exposure: Balanced, normal exposure.
-
-Speed: Real-time.
-
+Speed: Real-time/Normal
 Focus: Shallow depth of field—John’s face is in sharp focus while the background through the car windows is blurred (bokeh effect), emphasizing his internal state and detaching us from the external world.
-
 Framing: John is centered or slightly right of center in the frame. The static camera reinforces his steady, composed mindset.
-
 Camera Movement: Likely a mounted camera inside the car; stable, no handheld shake.
-
 Duration: 5 seconds—enough to sit with John and emphasize his internal shift from passive observer to active pursuer.
 
-Editing
 Transition from Shot 4: Straight cut, returning from a POV external following shot to an internal subjective view—John’s emotional perspective. Keeps up the back-and-forth rhythm of “what he sees” vs. “how he feels.”
-
 Relationship to next shots: Likely to cut back to the green car soon, reinforcing the surveillance-follow pattern.
-
 Continuity: Editing keeps the action flowing in real time—his expressions match the tempo and tone of the pursuit.
-
 Pattern: Continues alternating shots between John driving and the green car being followed. Keeps viewer aligned with both his literal and emotional point of view.
