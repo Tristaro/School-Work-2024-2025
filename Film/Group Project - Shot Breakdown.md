@@ -27,102 +27,65 @@
 ---
 
 ### **SHOT 2** (00:03–00:09)
+
 **Mise-en-Scène**
 - **Setting:** Street in front of a hotel.
-    
 - **Lighting:** High-key daylight.
-    
 - **Costume:** Madeleine’s green car stands out; other details minimal.
-    
 - **Staging & Performance:** Green car begins parked, then drives toward camera.
-    
 
 **Cinematography**
-
 - **Shot Type:** Wide establishing shot.
-    
 - **Exposure:** Normal.
-    
 - **Speed:** Real-time.
-    
 - **Focus:** Deep focus—foreground and background visible.
-    
 - **Framing:** Green car enters center-left, exits right.
-    
 - **Camera Movement:** Static.
-    
 - **Duration:** 6 seconds
-    
 
 **Editing**
-
 - **Transition:** Straight cut from John; possible eyeline match.
-    
 - **Pattern:** Introduces green car as object of attention.
-    
 
 **Sound**
-
 - Ambient music continues with tense undertone.
-    
 
 ---
 
 ### **SHOT 3** (00:09–00:13)
 
 **Mise-en-Scène**
-
 - **Same as Shot 1**
-    
 - **Staging & Performance:** John looks up, shifts posture, lowering newspaper.
-    
 
 **Cinematography**
-
 - **Shot Type:** Medium close-up.
-    
 - **Exposure:** Normal.
-    
 - **Speed:** Regular.
-    
 - **Focus:** Shallow depth of field.
-    
 - **Framing:** John closer to center.
-    
 - **Camera Movement:** Static.
-    
 - **Duration:** 4 seconds
-    
 
 **Editing**
-
 - **Transition:** Straight cut.
-    
 - **Pattern:** Builds POV ➝ Reaction rhythm.
-    
 
 **Sound**
-
 - Ambient music continues, suspense builds.
-    
 
 ---
 
 ### **SHOT 4** (00:13–00:17)
 
 **Mise-en-Scène**
-
 - **Setting:** Exterior city street, seen from car interior.
-    
 - **Lighting:** High-key daylight.
-    
 - **Staging & Performance:** Green car drives away in frame.
-    
 
 **Cinematography**
 
 - **Shot Type:** Static POV ➝ moving POV.
-    
 - **Exposure:** Normal.
     
 - **Speed:** Real-time.
