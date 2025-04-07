@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Film/Group Project - Shot Breakdown.md",
+                "file": "Film/Chapter 1 Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Group Project - Shot Breakdown"
+              "title": "Chapter 1 Notes"
             }
           }
         ],
@@ -103,13 +103,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Film/Group Project - Shot Breakdown.md",
+                "file": "Film/Chapter 1 Notes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Group Project - Shot Breakdown"
+              "title": "Outline of Chapter 1 Notes"
             }
           }
         ]
@@ -205,8 +205,10 @@
   },
   "active": "3e0eeff58c34fa57",
   "lastOpenFiles": [
-    "MediaCom/2025-03-26.md",
+    "Film/Movie Viewing Schedule.md",
+    "Film/Chapter 1 Notes.md",
     "Film/Group Project - Shot Breakdown.md",
+    "MediaCom/2025-03-26.md",
     "Film",
     "Data Science/Assignment 1/Figures/Figure()..md",
     "DataScience/Assignment 3/Assignment 3.md",
@@ -249,8 +251,6 @@
     "Data Science/Assignment 1.md",
     "Excalidraw/Drawing 2025-02-02 19.36.47.excalidraw.md",
     "Linear Algebra/Section 1/Section 1.1.md",
-    "Linear Algebra/Section 1/Figures/Figure 1.md",
-    "Linear Algebra/Section 1/README.md",
     "School/Linear Algebra/Untitled.canvas"
   ]
 }
