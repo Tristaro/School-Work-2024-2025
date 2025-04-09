@@ -79,3 +79,38 @@ Chapter 1 of *Film Art* introduces cinema as both an art form and a business. It
 **Summary:**
 Chapter 2 focuses on how form gives structure and meaning to a film. Rather than just being about content or story, films function through patterns, expectations, and the use of conventions. Form influences viewer engagement, emotions, and interpretation. It allows for repetition, variation, development, and unity. Through the analysis of form, we gain a deeper understanding of how films communicate on multiple levels—visually, emotionally, and ideologically.
 
+---
+
+**Chapter 3 Notes – Narrative Form I**
+
+**Key Terms:**
+- **Narrative** – A chain of events linked by cause and effect and occurring in time and space.
+- **Causality** – The relationship between events; what causes what to happen.
+- **Motivation** – The justification given in the film for the presence of an element.
+- **Story** – The chain of events in chronological order, both shown and implied.
+- **Plot** – The events directly presented to us, including their order and duration.
+- **Screen Duration** – The actual runtime of the film.
+- **Plot Duration** – The length of time the events presented in the plot take.
+- **Story Duration** – The span of time the story covers, including inferred events.
+- **Space** – The physical and diegetic locations within a film's world.
+
+**Salient Information:**
+- **Causality** is often based on character goals and choices. Characters initiate events and respond to others.
+- **Motivation** links narrative elements together, giving logic and coherence to plot developments.
+- **Narrative Development** typically features a beginning (setup), middle (complications), and end (resolution).
+- Changes between beginning and end reflect character growth, resolution of conflict, or thematic closure.
+- **Time in narrative**:
+  - **Order**: Events can be presented non-linearly (flashbacks, flashforwards).
+  - **Duration**: Can condense or stretch real time (montages vs. long takes).
+  - **Frequency**: Events may repeat to highlight different perspectives.
+- **Space** is established and explored through mise-en-scène, with offscreen space also playing a narrative role.
+
+**Notes:**
+- Narrative provides structure and engages viewer curiosity and emotion.
+- The viewer actively works to piece together cause-effect relationships and understand the story world.
+- Run Lola Run is a good example of how time, causality, and motivation can be played with and repeated to show narrative variation.
+- Mise-en-scène helps distinguish one narrative thread or version of events from another.
+
+**Summary:**
+In the first part of Chapter 3, the focus is on the foundational concepts of narrative form: causality, time, space, and motivation. Films use these tools to create meaning and emotional engagement. By manipulating plot structure, duration, and order, filmmakers can subvert or intensify viewer expectations. The difference between story and plot is crucial to understanding how films guide interpretation, and mise-en-scène plays an essential role in supporting the narrative.
+
