@@ -200,4 +200,62 @@ Chapters 4.1 and 4.2 together present mise-en-scène as one of the most vital to
 
 ---
 
+**Chapter 5 Notes – The Shot: Cinematography I**
+
+**Key Terms:**
+- **Cinematography** – The art and technique of capturing moving images on film or digital media.
+- **Tonality** – The control of the image's color and contrast through lighting, film stock, filters, and postproduction.
+- **Contrast** – The difference between the darkest and lightest areas of the frame.
+- **Exposure** – The amount of light allowed to reach the film or sensor.
+- **Color** – Affects mood and symbolism; can be adjusted during shooting or digitally.
+- **Frame Rate (Speed of Motion)** – The number of frames exposed per second:
+  - Standard: 24 fps
+  - Slow motion: shot at a higher rate, played back at 24 fps
+  - Fast motion: shot at a lower rate
+- **Perspective** – The spatial relationships created through the lens.
+- **Focal Length** – Determines magnification and depth:
+  - **Wide-angle lens** (short): exaggerates depth, distorts space.
+  - **Normal lens** (medium): natural perspective.
+  - **Telephoto lens** (long): flattens space, narrows depth.
+- **Depth of Field** – The range of distances in focus.
+- **Selective Focus** – Choosing a specific plane in focus.
+- **Deep Focus** – Multiple planes in focus simultaneously.
+- **Special Effects** – Techniques to alter the image:
+  - Rear projection, matte paintings, green screen, CGI.
+- **Aspect Ratio** – The ratio of width to height of the image:
+  - Academy: 1.37:1, Widescreen: 1.85:1, Anamorphic: 2.35:1.
+- **Onscreen Space** – The area visible within the frame.
+- **Offscreen Space** – Areas beyond the frame that still influence the scene.
+- **Camera Angle** – High, low, straight-on.
+- **Camera Level** – Canted (Dutch angle) vs. level.
+- **Camera Height** – Camera’s vertical placement in relation to subject.
+- **Camera Distance** – Proximity to subject: extreme long shot to extreme close-up.
+
+**Salient Information:**
+- Cinematography is about shaping what the viewer sees and how they see it.
+- Tonality affects mood—high contrast creates drama; low contrast softens.
+- Color can suggest emotion (e.g., cool for sterile, warm for intimacy).
+- Lens choice alters how we perceive space:
+  - Wide-angle: exaggerates movement and space.
+  - Telephoto: compresses space, isolates subject.
+- Depth of field can reflect character focus or narrative significance.
+- Special effects integrate characters with imagined worlds—CGI in *The Matrix* enabled "bullet time" effects.
+- Framing structures what is shown and how:
+  - Different aspect ratios create different emotional/intellectual responses.
+  - Onscreen/offscreen space shapes tension and implication.
+  - Camera position (angle, height, distance) directs emphasis and viewer identification.
+
+**Notes:**
+- *The Matrix* demonstrates highly stylized cinematography:
+  - Uses green tint in the Matrix vs. neutral tones in reality.
+  - Bullet time: innovative manipulation of frame rate and camera position.
+  - Varying lens lengths and camera movements to heighten action or introspection.
+  - Aspect ratio (2.35:1) gives scope to fight choreography and world-building.
+- Cinematography guides emotional tone, realism vs. stylization, and spatial understanding.
+
+**Summary:**
+The first part of Chapter 5 focuses on the photographic foundations of cinematography. Elements like tonality, color, lens perspective, frame rate, and special effects work together to construct a film’s look and feel. Framing choices, including aspect ratio and camera position, determine how we perceive characters and space. *The Matrix* exemplifies modern cinematographic innovation, combining visual effects and deliberate stylistic choices to construct a visually iconic world. Cinematography is central to how a film tells its story visually and emotionally.
+
+---
+
 
