@@ -116,62 +116,40 @@ In the first part of Chapter 3, the focus is on the foundational concepts of nar
 
 ---
 
-**Chapter 3 Notes – Narrative Form II**
+**Chapter 3 Notes – Narrative Form II: Narration and Perspective**
 
 **Key Terms:**
-- **Narration** – The process through which the plot conveys story information.
-- **Range of Narration** – Restricted (limited to one character’s knowledge) vs. Unrestricted (more omniscient perspective).
-- **Depth of Narration** – Objective (external behavior) vs. Subjective (mental states, POV shots).
-- **Narrator** – A specific agent who purports to be telling us the story.
-- **Classical Hollywood Narrative** – A storytelling tradition characterized by goal-oriented protagonists and closure.
+- **Narration** – The moment-by-moment process that guides the viewer in constructing a story from the plot.
+- **Range of Information**:
+  - **Restricted Narration** – The audience is limited to what a single character knows or experiences.
+  - **Unrestricted Narration** – The audience has access to more information than any one character; also called omniscient narration.
+- **Depth of Information**:
+  - **Objective Narration** – Presents only what characters say and do, external behavior.
+  - **Subjective Narration** – Gives access to characters’ inner thoughts, memories, dreams, or perceptions.
+- **Perceptual Subjectivity** – What a character sees or hears (e.g., POV shots).
+- **Mental Subjectivity** – Access to internal states like thoughts, fantasies, or hallucinations.
+- **Narrator** – A specific agent who tells the story (may or may not be a character in the story).
 
 **Salient Information:**
-- Narration shapes how we perceive and interpret story information.
-- Restricted narration builds curiosity or surprise; unrestricted creates suspense or dramatic irony.
-- Depth of narration can vary within a film—shifting from objective observation to subjective experience.
-- The narrator may be explicit (voice-over) or implicit (constructed by style and structure).
-- Citizen Kane is a prime example of unconventional narration:
-  - Uses multiple narrators and flashbacks.
-  - Creates ambiguity and fragmentation.
-  - Encourages viewers to construct Kane’s character from partial perspectives.
+- Narration is not just voice-over; it's how the film presents information to shape the viewer’s understanding.
+- Films often blend restricted and unrestricted narration to control suspense and surprise.
+- Depth of narration can fluctuate—moving from objective presentations to moments of deep subjectivity.
+- Subjectivity can be conveyed visually (e.g., blurred images for drunkenness) or aurally (e.g., distorted sound).
+- Films can manipulate narration to mislead, delay, or withhold information.
+- **Citizen Kane** is a key example of complex narration:
+  - Uses multiple narrators (Thatcher, Bernstein, Leland, Susan, Raymond).
+  - The story is pieced together from subjective memories, some contradictory.
+  - We never get full access to Kane’s interiority—he remains enigmatic.
 
 **Notes:**
-- Narrative form is not just about events, but how they are disclosed.
-- Viewer engagement often depends on the balance between what is shown and what is withheld.
-- The classical narrative model is challenged in films like Citizen Kane, where time and perspective are fragmented.
+- Narration creates the dynamic between plot and story construction.
+- Viewers become active participants in assembling the narrative meaning.
+- Shifts in range and depth guide emotion, empathy, and thematic interpretation.
+- Voice-over narration is one mode of narration, but most narration is visual and structural.
+- Films can reveal the biases or limitations of narrators, encouraging critical engagement.
 
 **Summary:**
-The second half of Chapter 3 focuses on narration—how story information is delivered and shaped through range, depth, and the use of narrators. Classical Hollywood conventions are explored and contrasted with more experimental techniques. Citizen Kane illustrates complex narrative strategies that rely on restricted knowledge, shifts in depth, and fragmented perspective to build character and theme.
+The second part of Chapter 3 deepens our understanding of narrative by introducing the concept of narration—the way films present information moment to moment. By manipulating the range (restricted vs. unrestricted) and depth (objective vs. subjective) of narration, filmmakers guide viewers through the process of constructing story meaning. *Citizen Kane* exemplifies a sophisticated use of narration, inviting us to interpret a man’s life through fragmented, biased perspectives without ever granting us complete knowledge. Narration is central to how films position the audience emotionally and intellectually in relation to the story world.
 
 ---
-
-**Chapter 4 Notes – The Shot: Mise-en-Scène I**
-
-**Key Terms:**
-- **Mise-en-scène** – “Putting into the scene”; everything visible in the frame.
-- **Setting** – The physical environment, including locations and props.
-- **Costume and Makeup** – Character appearance that can signify time, place, or personality.
-- **Lighting** – The arrangement and quality of light.
-- **Staging** – The movement and placement of figures in the frame.
-
-**Salient Information:**
-- Mise-en-scène shapes mood, tone, realism, symbolism, and attention.
-- **Setting** can be naturalistic or stylized and often interacts with action or theme.
-- **Costume and Makeup** highlight character traits, time periods, and changes.
-- **Lighting** is used for visibility, texture, and emotional tone. Types include:
-  - **Quality**: Hard vs. soft light
-  - **Direction**: Frontal, side, back, under, top
-  - **Source**: Natural or artificial, key light vs. fill light
-  - **Color**: Filters or gels for mood
-- **Staging** includes both blocking (placement) and performance (gestures, expressions).
-
-**Notes:**
-- Mise-en-scène contributes to storytelling without dialogue.
-- Performances may emphasize realism or stylization.
-- Lighting choices help define space, realism, and focus.
-- Rebel Without a Cause uses color, lighting, and space to enhance emotional tension and character dynamics.
-
-**Summary:**
-The first part of Chapter 4 introduces mise-en-scène as a key component of film style. It involves all visual elements within the frame, including setting, lighting, costume, and staging. These elements work together to create atmosphere, direct attention, and support narrative meaning. Mise-en-scène is both expressive and functional—shaping how we interpret the story and characters.
-
 
