@@ -114,3 +114,64 @@ Chapter 2 focuses on how form gives structure and meaning to a film. Rather than
 **Summary:**
 In the first part of Chapter 3, the focus is on the foundational concepts of narrative form: causality, time, space, and motivation. Films use these tools to create meaning and emotional engagement. By manipulating plot structure, duration, and order, filmmakers can subvert or intensify viewer expectations. The difference between story and plot is crucial to understanding how films guide interpretation, and mise-en-scène plays an essential role in supporting the narrative.
 
+---
+
+**Chapter 3 Notes – Narrative Form II**
+
+**Key Terms:**
+- **Narration** – The process through which the plot conveys story information.
+- **Range of Narration** – Restricted (limited to one character’s knowledge) vs. Unrestricted (more omniscient perspective).
+- **Depth of Narration** – Objective (external behavior) vs. Subjective (mental states, POV shots).
+- **Narrator** – A specific agent who purports to be telling us the story.
+- **Classical Hollywood Narrative** – A storytelling tradition characterized by goal-oriented protagonists and closure.
+
+**Salient Information:**
+- Narration shapes how we perceive and interpret story information.
+- Restricted narration builds curiosity or surprise; unrestricted creates suspense or dramatic irony.
+- Depth of narration can vary within a film—shifting from objective observation to subjective experience.
+- The narrator may be explicit (voice-over) or implicit (constructed by style and structure).
+- Citizen Kane is a prime example of unconventional narration:
+  - Uses multiple narrators and flashbacks.
+  - Creates ambiguity and fragmentation.
+  - Encourages viewers to construct Kane’s character from partial perspectives.
+
+**Notes:**
+- Narrative form is not just about events, but how they are disclosed.
+- Viewer engagement often depends on the balance between what is shown and what is withheld.
+- The classical narrative model is challenged in films like Citizen Kane, where time and perspective are fragmented.
+
+**Summary:**
+The second half of Chapter 3 focuses on narration—how story information is delivered and shaped through range, depth, and the use of narrators. Classical Hollywood conventions are explored and contrasted with more experimental techniques. Citizen Kane illustrates complex narrative strategies that rely on restricted knowledge, shifts in depth, and fragmented perspective to build character and theme.
+
+---
+
+**Chapter 4 Notes – The Shot: Mise-en-Scène I**
+
+**Key Terms:**
+- **Mise-en-scène** – “Putting into the scene”; everything visible in the frame.
+- **Setting** – The physical environment, including locations and props.
+- **Costume and Makeup** – Character appearance that can signify time, place, or personality.
+- **Lighting** – The arrangement and quality of light.
+- **Staging** – The movement and placement of figures in the frame.
+
+**Salient Information:**
+- Mise-en-scène shapes mood, tone, realism, symbolism, and attention.
+- **Setting** can be naturalistic or stylized and often interacts with action or theme.
+- **Costume and Makeup** highlight character traits, time periods, and changes.
+- **Lighting** is used for visibility, texture, and emotional tone. Types include:
+  - **Quality**: Hard vs. soft light
+  - **Direction**: Frontal, side, back, under, top
+  - **Source**: Natural or artificial, key light vs. fill light
+  - **Color**: Filters or gels for mood
+- **Staging** includes both blocking (placement) and performance (gestures, expressions).
+
+**Notes:**
+- Mise-en-scène contributes to storytelling without dialogue.
+- Performances may emphasize realism or stylization.
+- Lighting choices help define space, realism, and focus.
+- Rebel Without a Cause uses color, lighting, and space to enhance emotional tension and character dynamics.
+
+**Summary:**
+The first part of Chapter 4 introduces mise-en-scène as a key component of film style. It involves all visual elements within the frame, including setting, lighting, costume, and staging. These elements work together to create atmosphere, direct attention, and support narrative meaning. Mise-en-scène is both expressive and functional—shaping how we interpret the story and characters.
+
+
