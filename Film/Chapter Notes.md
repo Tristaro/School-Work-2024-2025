@@ -153,7 +153,51 @@ The second part of Chapter 3 deepens our understanding of narrative by introduci
 
 ---
 
+**Chapter 4 Notes – The Shot: Mise-en-Scène I & II**
 
+**Key Terms:**
+- **Mise-en-scène** – "Putting into the scene"; all the visual elements placed in front of the camera and their arrangement.
+- **Setting** – The physical environment where the action takes place; includes location, sets, and props.
+- **Costume and Makeup** – The clothing and cosmetic appearance of characters; reveals traits and contributes to themes.
+- **Lighting** – The manipulation of light and shadow to shape understanding, mood, and focus.
+- **Staging** – The movement and performance of figures in the frame, including blocking and gesture.
+- **Quality (Lighting)** – The intensity of the light, either hard (sharp shadows) or soft (diffuse shadows).
+- **Direction (Lighting)** – The angle from which the light hits the subject (frontal, side, back, under, top).
+- **Source (Lighting)** – The origin of the light within the diegesis; can be motivated (visible) or unmotivated.
+- **Color (Lighting)** – The hue and tone of the lighting, often manipulated for atmosphere or symbolism.
+- **Deep-Space Composition** – Staging of action on multiple planes, encouraging depth perception.
+- **Offscreen Space** – The implied space beyond the edges of the frame that still affects the narrative or tension.
+- **Blocking** – The arrangement and movement of actors in the frame.
+
+**Salient Information:**
+- Mise-en-scène works to create a film’s visual style and directs viewer attention within the frame.
+- **Settings** may be stylized (e.g., German Expressionism) or realistic; they shape narrative space and can symbolize character or theme.
+- Props can serve as **instruments of action** or **motifs**—objects that carry symbolic weight.
+- **Costume and makeup** are key to character identification and transformation; often indicate time period, social status, or psychological state.
+- **Lighting** can suggest time of day, mood, or thematic meaning; it's one of the most expressive tools in mise-en-scène.
+- **Staging and performance** convey emotional information, narrative development, and spatial relations.
+- Acting styles vary along a spectrum:
+  - **Individualized vs. Typecast** – Unique characterization vs. expected archetypes.
+  - **Stylized vs. Naturalistic** – Theatrical or exaggerated vs. lifelike and restrained.
+- **Deep-space staging** and **offscreen space** increase spatial complexity and viewer engagement.
+
+**Notes:**
+- *Rebel Without a Cause* exemplifies expressive mise-en-scène:
+  - Settings (the planetarium, suburban homes, abandoned mansion) reflect social alienation.
+  - Costumes (James Dean’s red jacket) become iconic expressions of youth and rebellion.
+  - Lighting emphasizes psychological tension—e.g., shadows during the family conflict.
+  - Performances are emotive, combining stylized outbursts with naturalistic vulnerability.
+- *In the Mood for Love* uses mise-en-scène to communicate restrained emotion and social constraint:
+  - Tight spaces and framing through doorways and windows suggest repression and isolation.
+  - Color symbolism and rich costumes express emotional nuance (e.g., red, green tones).
+  - Lighting is soft and intimate, enhancing the mood of secrecy and longing.
+  - Blocking and body language create unspoken tension—characters are often turned away from each other.
+- Mise-en-scène is not just about decoration—it shapes narrative meaning and audience experience.
+- Carefully composed mise-en-scène can reinforce theme, create parallels, and highlight turning points.
+
+**Summary:**
+Chapters 4.1 and 4.2 together present mise-en-scène as one of the most vital tools of cinematic storytelling. It includes setting, costume, lighting, and staging—all of which work together to guide the viewer’s attention and emotion. Films like *Rebel Without a Cause* and *In the Mood for Love* show how mise-en-scène can express character psychology, suggest unspoken feelings, and enrich thematic resonance. Through mise-en-scène, filmmakers craft the visual and emotional atmosphere that defines cinematic style.
 
 ---
+
 
