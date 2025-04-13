@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MediaCom/Quiz 3 Notes.md",
+                "file": "MediaCom/Exam Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Quiz 3 Notes"
+              "title": "Exam Notes"
             }
           }
         ],
@@ -103,13 +103,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MediaCom/Quiz 3 Notes.md",
+                "file": "MediaCom/Exam Notes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Quiz 3 Notes"
+              "title": "Outline of Exam Notes"
             }
           }
         ]
@@ -205,8 +205,9 @@
   },
   "active": "3e0eeff58c34fa57",
   "lastOpenFiles": [
-    "MediaCom/2025-03-26.md",
     "MediaCom/Quiz 3 Notes.md",
+    "MediaCom/Exam Notes.md",
+    "MediaCom/2025-03-26.md",
     "MediaCom/Test.md",
     "Film/Chapter Notes.md",
     "Film/Group Project - Shot Breakdown.md",
@@ -250,7 +251,6 @@
     "DataScience/Assignment 1",
     "Data Science/Figures/Question 1.md",
     "Data Science/Assignment 1.md",
-    "Excalidraw/Drawing 2025-02-02 19.36.47.excalidraw.md",
     "School/Linear Algebra/Untitled.canvas"
   ]
 }
