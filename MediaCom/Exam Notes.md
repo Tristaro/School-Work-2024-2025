@@ -18,7 +18,7 @@ Haraway’s cyborg theory provides a deeper reading of Ava’s ultimate rebellio
 Ultimately, _Ex Machina_ becomes a case study in how rationalization cloaks ideology. Nathan believes he is pursuing pure scientific advancement, but his methods—secrecy, manipulation, control—reveal a deeply gendered structure. Through Watercutter’s lens, we see the persistence of the male gaze and the commodification of femininity in rationalized tech spaces. Through Haraway’s, we see the cyborg’s potential to resist, but also the difficulty of escaping the very structures that create her.
 
 
-
+# More Examples
 
 **1.**  
 **Cyborg Manifesto**: Donna Haraway (Week 7 reading), breaks down boundary between human and machine. Challenges essentialist views of identity (e.g., gender, species), proposes cyborg as metaphor for hybrid identity that resists binaries.  
@@ -53,3 +53,113 @@ Ultimately, _Ex Machina_ becomes a case study in how rationalization cloaks ideo
 **Actor-Network Theory**: Latour (Week 11 reading), theory that views humans and nonhumans (tech, institutions) as actors in a network. Power and agency distributed.  
 **Relationship**: Both reject top-down hierarchies. Algorithmic systems act within actor-networks and exercise power in distributed ways. Helps explain why it’s so hard to identify who is responsible in automated decision-making systems.
 
+# Even More Examples
+
+### **1. Transhumanism (Week 10 reading/slides) + Haraway’s Cyborg (Week 6 & Week 10 slides)**
+
+- **Transhumanism**: Belief that humanity can overcome physical and mental limitations using technology. Promoted by figures like Ray Kurzweil (Week 10 reading), often tied to tech companies and elite futurist visions.
+    
+- **Haraway’s Cyborg**: Blurs boundaries between human and machine, organic and technological. Challenges binaries (male/female, human/animal, etc.).
+    
+- **Relationship**: While transhumanism promotes a utopian, often capitalist and individualist vision, Haraway's cyborg is a _political metaphor_ for coalition and hybridity. Both challenge the limits of “natural” human identity, but with different stakes: transhumanism often reinforces power, Haraway resists it.
+    
+
+---
+
+### **2. Swarm Intelligence (Week 11 slides) + Actor-Network Theory (Week 11 reading)**
+
+- **Swarm Intelligence**: Emergent behavior from collective organisms (e.g., birds, fish) without centralized control. Used in AI to model decentralized learning (Boids simulation).
+    
+- **Actor-Network Theory (ANT)**: Concept by Bruno Latour — sees human and non-human elements (tech, people, institutions) as part of dynamic systems. Power is distributed.
+    
+- **Relationship**: Both challenge hierarchical models of organization. Rather than top-down control, they show how systems emerge through interaction. Maps onto rhizomatic thinking — structure appears only _after_ the connections form.
+    
+
+---
+
+### **3. Kurzweil’s Singularity (Week 10 readings) + Mosco’s Myth of the Sublime (Week 8 reading)**
+
+- **Kurzweil’s Singularity**: Hypothetical future where AI surpasses human intelligence, leading to immortality, limitless progress. Based on exponential growth logic.
+    
+- **Myth of the Sublime**: Mosco’s idea that we romanticize tech progress without confronting its downsides. Three phases: natural, mechanical, electrical.
+    
+- **Relationship**: Kurzweil’s singularity is a perfect example of the myth of sublime — it obscures power structures and material conditions under utopian fantasy. Appeals to dominant readings (Hall), presented as inevitable truth.
+    
+
+---
+
+### **4. Rhizome (Week 11 reading: Deleuze & Guattari) + Neural Networks (Week 6 and Week 11 slides)**
+
+- **Rhizome**: Non-linear, decentralized, non-hierarchical model of thought and organization. Always in motion, always becoming.
+    
+- **Neural Networks**: AI systems that mimic brain connections. Learn from experience, evolve without predetermined logic.
+    
+- **Relationship**: Both emphasize emergence, unpredictability, and decentralization. Rhizome provides the philosophical metaphor, while neural networks provide the technical application. Impossible to fully trace — always moving.
+    
+
+---
+
+### **5. Affective Labour (Week 12 reading/slides) + Surveillance Capitalism (Week 9 & Week 12 readings — Zuboff)**
+
+- **Affective Labour**: Emotional engagement as economic value (e.g., influencers, gig economy). Based on feelings, moods, reactions.
+    
+- **Surveillance Capitalism**: Zuboff’s idea that tech companies commodify behavioural data beyond what’s needed to provide service.
+    
+- **Relationship**: Platforms (Instagram, TikTok) monetize emotional engagement. Emotional expression becomes _behavioural surplus_, fueling capitalist systems. Ties to Hardt & Negri’s concept of _immaterial labour_.
+    
+
+---
+
+### **6. Coded Bias (Week 9 film/Week 9 slides) + O’Neil’s Weapons of Math Destruction (Week 9 reading)**
+
+- **Coded Bias**: Film showing algorithmic discrimination (e.g., facial recognition misidentifies BIPOC faces).
+    
+- **Weapons of Math Destruction**: O’Neil describes dangerous algorithms as widespread, opaque, and damaging (e.g., policing, hiring).
+    
+- **Relationship**: Both argue that tech is not neutral. Biases of creators are embedded into code, creating feedback loops that reinforce inequality. Algorithms reflect dominant ideologies, not objective truth.
+    
+
+---
+
+### **7. Cryonics (Week 10 slides) + Negative Feedback in Nature (Week 10 lecture content)**
+
+- **Cryonics**: Transhumanist idea of preserving the body/brain for future revival — based on belief that death is a flaw to be fixed.
+    
+- **Negative Feedback**: Natural systems self-regulate via limitation (e.g., death balances population).
+    
+- **Relationship**: Cryonics attempts to eliminate a fundamental self-regulating process in nature. Shows transhumanist desire to dominate nature rather than live within it — connects to instrumental rationality and techno-optimism.
+    
+
+---
+
+### **8. Mapping vs. Tracing (Week 11 reading: Deleuze & Guattari) + Wallace & Gromit Train Example (Week 11 lecture)**
+
+- **Tracing**: Copies structure, linear, hierarchical.
+    
+- **Mapping**: Dynamic, constructed in motion, experimental.
+    
+- **Wallace & Gromit**: Lays train tracks as the train moves — metaphor for real-time decision-making and creative emergence.
+    
+- **Relationship**: Creative processes (like AI learning or cultural production) happen in motion. Rhizomatic maps reflect the messiness of life and media systems better than fixed, “traced” ones.
+    
+
+---
+
+### **9. Memes & Reaction GIFs (Week 12 slides) + Affect Theory (Week 12 reading)**
+
+- **Memes/GIFs**: Shareable units of emotion that bypass language.
+    
+- **Affect**: Pre-verbal, bodily intensity that precedes emotion (Brian Massumi).
+    
+- **Relationship**: Memes convey _affect_ quickly and contagiously — emotional logic spreads faster than rational discourse. Ties into digital affective labour and Haraway’s embodied knowledge.
+    
+
+---
+
+### **10. Techno-Optimist Manifesto (Week 10 slides) + Cathy O’Neil’s Critique (Week 9 reading)**
+
+- **Techno-Optimist Manifesto**: Andreessen’s vision that tech = ultimate good, will solve all human problems.
+    
+- **O’Neil**: Warns that tech (especially AI) often exacerbates inequality and hides destructive impacts behind math.
+    
+- **Relationship**: The manifesto is a dominant reading; O’Neil is oppositional. Both reveal the ideological divide between _myth_ and _material impact_. Connects to Haraway, Zuboff, Hall.
