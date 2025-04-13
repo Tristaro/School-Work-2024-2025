@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Film/Chapter Notes.md",
+                "file": "MediaCom/Quiz 3 Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter Notes"
+              "title": "Quiz 3 Notes"
             }
           }
         ],
@@ -103,13 +103,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Film/Chapter Notes.md",
+                "file": "MediaCom/Quiz 3 Notes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Chapter Notes"
+              "title": "Outline of Quiz 3 Notes"
             }
           }
         ]
@@ -205,11 +205,13 @@
   },
   "active": "3e0eeff58c34fa57",
   "lastOpenFiles": [
-    "Film/Group Project - Shot Breakdown.md",
+    "MediaCom/2025-03-26.md",
+    "MediaCom/Quiz 3 Notes.md",
+    "MediaCom/Test.md",
     "Film/Chapter Notes.md",
+    "Film/Group Project - Shot Breakdown.md",
     "Film/Chapter 2 Notes.md",
     "Film/Movie Viewing Schedule.md",
-    "MediaCom/2025-03-26.md",
     "Film",
     "Data Science/Assignment 1/Figures/Figure()..md",
     "DataScience/Assignment 3/Assignment 3.md",
@@ -229,7 +231,6 @@
     "DataScience/Assignment 1/DS1000 Midterm Cheat Sheet Compressed.md",
     "DataScience/Assignment 3",
     "MediaCom/Group Project/Media Com Group Project - Personal Reflection - Tristan Braganza.md",
-    "MediaCom/Test.md",
     "MediaCom/Group Project/Media Com Group Project - Collaboration Reflection - Tristan Braganza.md",
     "MediaCom/Group Project/Images",
     "MediaCom/Group Project/Media Com Group Project - Bibliography - Tristan Braganza.md",
@@ -238,7 +239,6 @@
     "MediaCom/Group Project/Media Com Group Project - Rough 1 - Tristan Braganza.md",
     "MediaCom/Group Project/Media Com Group - Project Script - Tristan Braganza.md",
     "MediaCom/Group Project/Slides Outline.md",
-    "MediaCom/Quiz 3 Notes.md",
     "Linear Algebra/README.md",
     "README.md",
     "test.md",
