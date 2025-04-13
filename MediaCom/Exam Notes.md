@@ -20,4 +20,36 @@ Ultimately, _Ex Machina_ becomes a case study in how rationalization cloaks ideo
 
 
 
+**1.**  
+**Cyborg Manifesto**: Donna Haraway (Week 7 reading), breaks down boundary between human and machine. Challenges essentialist views of identity (e.g., gender, species), proposes cyborg as metaphor for hybrid identity that resists binaries.  
+**Posthumanism**: (Week 10 reading/slides), philosophical position rejecting human exceptionalism. Recognizes distributed agency across humans, animals, technologies, environments.  
+**Relationship**: Cyborg is a foundational figure in posthumanist thought. Both argue for decentering human as the main unit of analysis. Can be linked to AI ethics and the idea that technology doesn’t just serve human ends but becomes co-constitutive.
+
+---
+
+**2.**  
+**The Stack**: Benjamin Bratton (Week 6 reading/slides), a model for understanding planetary-scale computation as a vertical architecture: from Earth to Cloud to City to Address to Interface to User.  
+**Platform Urbanism**: (Quiz Guide 5/Week 12 reading), how platforms like Uber, Amazon, and Google Maps shape the way cities operate. Tech becomes a layer of urban infrastructure.  
+**Relationship**: Both reframe how technology operates beyond “tools” and instead as a layer of governance. Platforms and computational stacks structure daily life in ways that are hard to opt out of. Connects to ideas of surveillance and control, especially under neoliberalism.
+
+---
+
+**3.**  
+**Technological Determinism**: (Week 2 reading), the idea that technology drives social change with little to no human agency. Often criticized for being too simplistic.  
+**Sociotechnical Systems**: (Week 6 reading/quiz guide 4), model where tech and society co-evolve. Emphasizes mutual shaping—tech affects society, but is also shaped by it.  
+**Relationship**: Tension between the two—one sees tech as autonomous force, other as embedded in broader social context. Relevant to discussions of algorithmic bias (e.g., O’Neil, Buolamwini) and debates over AI policy.
+
+---
+
+**4.**  
+**Technological Longtermism**: (Week 10 slides, political article), belief that tech will lead to utopian future and humanity must invest now to ensure that future. Linked to figures like Musk, Bostrom.  
+**Climate Crisis**: (Week 12 readings), systemic environmental collapse due to extractive capitalism. Tech often proposed as fix (geoengineering, carbon capture), but these solutions can delay real action.  
+**Relationship**: Longtermism can divert attention from present crises (like climate) to speculative futures. Both highlight ideological use of tech—either as salvation or deflection. Ties to Mosco’s Myth of the Sublime.
+
+---
+
+**5.**  
+**Algorithmic Governance**: (Week 9 reading/slides), the use of algorithmic systems in place of traditional decision-making structures (e.g., predictive policing, welfare access).  
+**Actor-Network Theory**: Latour (Week 11 reading), theory that views humans and nonhumans (tech, institutions) as actors in a network. Power and agency distributed.  
+**Relationship**: Both reject top-down hierarchies. Algorithmic systems act within actor-networks and exercise power in distributed ways. Helps explain why it’s so hard to identify who is responsible in automated decision-making systems.
 
