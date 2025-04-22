@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "test"
             }
+          },
+          {
+            "id": "5e44cc93ff89c430",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "DataScience/Drawing 2025-04-22 19.37.08.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-04-22 19.37.08.excalidraw"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -103,13 +115,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test.md",
+                "file": "DataScience/Drawing 2025-04-22 19.37.08.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of test"
+              "title": "Outline of Drawing 2025-04-22 19.37.08.excalidraw"
             }
           }
         ]
@@ -203,8 +215,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3e0eeff58c34fa57",
+  "active": "5e44cc93ff89c430",
   "lastOpenFiles": [
+    "test.md",
+    "DataScience/Drawing 2025-04-22 19.37.08.excalidraw.md",
     "MediaCom/Exam Notes.md",
     "MediaCom/Quiz 3 Notes.md",
     "MediaCom/2025-03-26.md",
@@ -242,7 +256,6 @@
     "MediaCom/Group Project/Slides Outline.md",
     "Linear Algebra/README.md",
     "README.md",
-    "test.md",
     "MediaCom/Group Project",
     "Data Science/Assignment 1/Figures",
     "Data Science/Assignment 1",
@@ -250,7 +263,6 @@
     "DataScience/Assignment 1/Figures",
     "DataScience/Assignment 1",
     "Data Science/Figures/Question 1.md",
-    "Data Science/Assignment 1.md",
     "School/Linear Algebra/Untitled.canvas"
   ]
 }
