@@ -43,12 +43,22 @@
               "state": {
                 "file": "DataScience/Drawing 2025-04-22 19.37.08.excalidraw.md"
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-04-22 19.37.08.excalidraw"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "1dac18d0dacdfd05",
+            "type": "leaf",
+            "state": {
+              "type": "swar8080/AVAILABLE_PLUGIN_UPDATES",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin Updates"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -212,10 +222,11 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "5e44cc93ff89c430",
+  "active": "1dac18d0dacdfd05",
   "lastOpenFiles": [
     "test.md",
     "DataScience/Drawing 2025-04-22 19.37.08.excalidraw.md",
