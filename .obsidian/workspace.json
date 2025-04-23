@@ -86,13 +86,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataScience/Exam/Exam Notes.md",
+                "file": "DataScience/Exam/Drawing 2025-04-22 19.43.10.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Exam Notes"
+              "title": "Outline of Drawing 2025-04-22 19.43.10.excalidraw"
             }
           }
         ]
@@ -218,19 +218,19 @@
           }
         ],
         "direction": "vertical",
-        "x": -391,
-        "y": -13,
-        "width": 1576,
+        "x": -1395,
+        "y": 286,
+        "width": 1577,
         "height": 952,
         "maximize": true,
         "zoom": 0
       }
     ]
   },
-  "active": "7f365d58edb0c04a",
+  "active": "54d4f8a698425244",
   "lastOpenFiles": [
-    "DataScience/Exam/Drawing 2025-04-22 19.43.10.excalidraw.md",
     "DataScience/Exam/Exam Notes.md",
+    "DataScience/Exam/Drawing 2025-04-22 19.43.10.excalidraw.md",
     "Pasted Image 20250423010830_114.png",
     "DataScience/Exam/Chapters 8-9, 12-13, 15-16, 32 Notes.md",
     "DataScience/DS1000 Midterm Cheat Sheet.md",
