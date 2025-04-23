@@ -155,11 +155,12 @@
 - Bootstrap: Estimating confidence intervals
 - Permutation: Hypothesis testing when traditional assumptions fail
 
-**Comparison**:
-| Method | CI | Hypothesis Test | Assumes Normality |
-|--------|----|------------------|--------------------|
-| Bootstrap | ✅ | ❌ | ❌ |
-| Permutation | ❌ | ✅ | ❌ |
+**Comparison**
+
+| Method      | CI  | Hypothesis Test | Assumes Normality |
+| ----------- | --- | --------------- | ----------------- |
+| Bootstrap   | ✅   | ❌               | ❌                 |
+| Permutation | ❌   | ✅               | ❌                 |
 
 **Python Example**:
 ```python
