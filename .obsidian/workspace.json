@@ -11,14 +11,12 @@
             "id": "54d4f8a698425244",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "DataScience/Exam/Chapter 32.md",
-                "mode": "source",
-                "source": false
+                "file": "DataScience/Exam/Drawing 2025-04-22 19.43.10.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "Chapter 32"
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-04-22 19.43.10.excalidraw"
             }
           }
         ]
@@ -88,13 +86,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataScience/Exam/Chapter 32.md",
+                "file": "DataScience/Exam/Drawing 2025-04-22 19.43.10.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Chapter 32"
+              "title": "Outline of Drawing 2025-04-22 19.43.10.excalidraw"
             }
           }
         ]
@@ -191,8 +189,9 @@
   },
   "active": "54d4f8a698425244",
   "lastOpenFiles": [
-    "DataScience/Exam/Chapter 8.md",
+    "DataScience/DS1000 Midterm Cheat Sheet.md",
     "DataScience/Exam/Chapter 32.md",
+    "DataScience/Exam/Chapter 8.md",
     "DataScience/Exam/Chapter 16.md",
     "DataScience/Exam/Chapter 15.md",
     "DataScience/Exam/Drawing 2025-04-22 19.43.10.excalidraw.md",
@@ -228,7 +227,6 @@
     "DataScience/Assignment 3/Figures/Screenshot 2025-03-18 221845.png",
     "DataScience/Assignment 1/Assignment 1.md",
     "DataScience/Assignment 3/Figures",
-    "DataScience/DS1000 Midterm Cheat Sheet.md",
     "DataScience/Assignment 1/DS1000 Midterm Cheat Sheet Compressed.md",
     "DataScience/Assignment 3",
     "MediaCom/Group Project/Media Com Group Project - Personal Reflection - Tristan Braganza.md",
