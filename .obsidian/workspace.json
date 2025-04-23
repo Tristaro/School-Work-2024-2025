@@ -11,12 +11,14 @@
             "id": "54d4f8a698425244",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "DataScience/Drawing 2025-04-22 19.43.10.excalidraw.md"
+                "file": "DataScience/Exam/Chapter 9.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-04-22 19.43.10.excalidraw"
+              "icon": "lucide-file",
+              "title": "Chapter 9"
             }
           }
         ]
@@ -86,13 +88,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataScience/Drawing 2025-04-22 19.43.10.excalidraw.md",
+                "file": "DataScience/Exam/Chapter 9.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Drawing 2025-04-22 19.43.10.excalidraw"
+              "title": "Outline of Chapter 9"
             }
           }
         ]
@@ -189,8 +191,11 @@
   },
   "active": "54d4f8a698425244",
   "lastOpenFiles": [
+    "DataScience/Exam/Chapter 8.md",
+    "DataScience/Exam/Chapter 9.md",
+    "DataScience/Exam/Drawing 2025-04-22 19.43.10.excalidraw.md",
+    "DataScience/Exam",
     "MediaCom/Test.md",
-    "DataScience/Drawing 2025-04-22 19.43.10.excalidraw.md",
     "Linear Algebra/Section 1/Section 1.1.md",
     "DataScience/test.md",
     "Pasted Image 20250422194553_262.png",
@@ -228,14 +233,11 @@
     "MediaCom/Group Project/Media Studies Project Proposal.md",
     "MediaCom/Group Project/Media Com Group Project - Rough 2 - Tristan Braganza.md",
     "MediaCom/Group Project/Media Com Group Project - Rough 1 - Tristan Braganza.md",
-    "MediaCom/Group Project/Media Com Group - Project Script - Tristan Braganza.md",
-    "MediaCom/Group Project/Slides Outline.md",
     "MediaCom/Group Project",
     "Data Science/Assignment 1/Figures",
     "Data Science/Assignment 1",
     "Data Science",
     "DataScience/Assignment 1/Figures",
-    "DataScience/Assignment 1",
     "School/Linear Algebra/Untitled.canvas"
   ]
 }
