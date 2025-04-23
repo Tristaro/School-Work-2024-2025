@@ -18,8 +18,21 @@
               "icon": "excalidraw-icon",
               "title": "Drawing 2025-04-22 19.43.10.excalidraw"
             }
+          },
+          {
+            "id": "26a2a91bf25a76bc",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,12 +196,11 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "54d4f8a698425244",
+  "active": "44988a079c2b8650",
   "lastOpenFiles": [
     "Pasted Image 20250423023138_231.png",
     "DataScience/Exam/Drawing 2025-04-22 19.43.10.excalidraw.md",
