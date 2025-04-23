@@ -11,12 +11,14 @@
             "id": "54d4f8a698425244",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "DataScience/Exam/Drawing 2025-04-22 19.43.10.excalidraw.md"
+                "file": "DataScience/Exam/Chapter 8.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-04-22 19.43.10.excalidraw"
+              "icon": "lucide-file",
+              "title": "Chapter 8"
             }
           }
         ]
@@ -86,13 +88,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataScience/Exam/Drawing 2025-04-22 19.43.10.excalidraw.md",
+                "file": "DataScience/Exam/Chapter 8.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Drawing 2025-04-22 19.43.10.excalidraw"
+              "title": "Outline of Chapter 8"
             }
           }
         ]
@@ -189,12 +191,12 @@
   },
   "active": "54d4f8a698425244",
   "lastOpenFiles": [
+    "DataScience/Exam/Drawing 2025-04-22 19.43.10.excalidraw.md",
     "DataScience/DS1000 Midterm Cheat Sheet.md",
     "DataScience/Exam/Chapter 32.md",
     "DataScience/Exam/Chapter 8.md",
     "DataScience/Exam/Chapter 16.md",
     "DataScience/Exam/Chapter 15.md",
-    "DataScience/Exam/Drawing 2025-04-22 19.43.10.excalidraw.md",
     "DataScience/Exam/Chapter 13.md",
     "DataScience/Exam/Chapter 12.md",
     "DataScience/Exam/Chapter 9.md",
