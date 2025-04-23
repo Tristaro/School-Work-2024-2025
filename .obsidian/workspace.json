@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataScience/Exam/Chapter 9.md",
+                "file": "DataScience/Exam/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 9"
+              "title": "Untitled"
             }
           }
         ]
@@ -88,13 +88,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataScience/Exam/Chapter 9.md",
+                "file": "DataScience/Exam/Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Chapter 9"
+              "title": "Outline of Untitled"
             }
           }
         ]
@@ -191,8 +191,9 @@
   },
   "active": "54d4f8a698425244",
   "lastOpenFiles": [
-    "DataScience/Exam/Chapter 8.md",
     "DataScience/Exam/Chapter 9.md",
+    "DataScience/Exam/Untitled.md",
+    "DataScience/Exam/Chapter 8.md",
     "DataScience/Exam/Drawing 2025-04-22 19.43.10.excalidraw.md",
     "DataScience/Exam",
     "MediaCom/Test.md",
@@ -232,7 +233,6 @@
     "MediaCom/Group Project/Media Com Group Project - Bibliography - Tristan Braganza.md",
     "MediaCom/Group Project/Media Studies Project Proposal.md",
     "MediaCom/Group Project/Media Com Group Project - Rough 2 - Tristan Braganza.md",
-    "MediaCom/Group Project/Media Com Group Project - Rough 1 - Tristan Braganza.md",
     "MediaCom/Group Project",
     "Data Science/Assignment 1/Figures",
     "Data Science/Assignment 1",
