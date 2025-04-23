@@ -1,6 +1,6 @@
 ## 📚 The Basic Practice of Statistics – Chapters 8–9, 12–13, 15–16, 32 Notes
 
----
+
 
 ### Chapter 8: Producing Data – Sampling
 **Population**: Entire group we want information about.  
@@ -24,7 +24,7 @@
 
 **Random Number Table** (Table B): Used for SRS selection in exams.
 
----
+
 
 ### Chapter 9: Producing Data – Experiments
 **Observational Study**: Observes individuals without influence.  
@@ -53,7 +53,7 @@
 - **Double-Blind**: Both unaware.
 - **Confounding**: When variables' effects can't be separated.
 
----
+
 
 ### Chapter 12: Introducing Probability
 **Probability**: Likelihood of an event.  
@@ -76,7 +76,7 @@
 - **Discrete**: Countable values (e.g., # of emails).
 - **Continuous**: Measurable range (e.g., time, height).
 
----
+
 
 ### Chapter 13: General Rules of Probability
 **General Addition Rule**: For overlapping events.  
@@ -93,7 +93,7 @@
 
 **Tree Diagrams**: Visualize probability of compound events.
 
----
+
 
 ### Chapter 15: Sampling Distributions
 **Parameter**: Describes population (μ, σ).  
@@ -111,7 +111,7 @@
 - Larger n → smaller spread
 - CLT justifies using Normal models in inference
 
----
+
 
 ### Chapter 16: Confidence Intervals
 **Confidence Interval (CI)**: Range likely to contain true population parameter.  
@@ -136,7 +136,7 @@
 - Normal population or n ≥ 30
 - σ known
 
----
+
 
 ### Chapter 32: Resampling – Bootstrap and Permutation Tests
 **Resampling**: Use sample data to simulate many hypothetical repetitions.
@@ -186,5 +186,5 @@ for _ in range(1000):
 p_value = np.mean(np.abs(p_diffs) >= np.abs(obs_diff))
 ```
 
----
+
 
