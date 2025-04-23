@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataScience/Exam/Chapter 16.md",
+                "file": "DataScience/Exam/Chapter 32.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 16"
+              "title": "Chapter 32"
             }
           }
         ]
@@ -88,13 +88,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataScience/Exam/Chapter 16.md",
+                "file": "DataScience/Exam/Chapter 32.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Chapter 16"
+              "title": "Outline of Chapter 32"
             }
           }
         ]
@@ -191,11 +191,11 @@
   },
   "active": "54d4f8a698425244",
   "lastOpenFiles": [
+    "DataScience/Exam/Chapter 16.md",
     "DataScience/Exam/Chapter 15.md",
     "DataScience/Exam/Drawing 2025-04-22 19.43.10.excalidraw.md",
     "DataScience/Exam/Chapter 13.md",
     "DataScience/Exam/Chapter 32.md",
-    "DataScience/Exam/Chapter 16.md",
     "DataScience/Exam/Chapter 12.md",
     "DataScience/Exam/Chapter 9.md",
     "DataScience/Exam/Chapter 8.md",
