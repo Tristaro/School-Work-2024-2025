@@ -3,135 +3,135 @@
 
 
 ### Chapter 8: Producing Data – Sampling
-**Population**: Entire group we want information about.  
-**Sample**: Subset of population actually studied.  
-**Census**: Survey of the entire population.  
-**Sampling Design**: How the sample is chosen.  
-**Bias**: Systematic error in design leading to misleading results.  
-**Random Sampling**: Uses chance to select subjects.
+Population: Entire group we want information about.  
+Sample: Subset of population actually studied.  
+Census: Survey of the entire population.  
+Sampling Design: How the sample is chosen.  
+Bias: Systematic error in design leading to misleading results.  
+Random Sampling: Uses chance to select subjects.
 
-**Types of Sampling**:
-- **Simple Random Sample (SRS)**: Equal chance for all individuals/groups.
-- **Stratified Random Sample**: Split population into strata (groups), sample each.
-- **Cluster Sample**: Divide into clusters, randomly choose clusters.
-- **Multistage Sample**: Combines multiple sampling methods.
+Types of Sampling:
+- Simple Random Sample (SRS): Equal chance for all individuals/groups.
+- Stratified Random Sample: Split population into strata (groups), sample each.
+- Cluster Sample: Divide into clusters, randomly choose clusters.
+- Multistage Sample: Combines multiple sampling methods.
 
-**Sources of Bias**:
-- **Undercoverage**: Some groups left out.
-- **Nonresponse**: Selected individuals don’t respond.
-- **Response Bias**: Inaccurate or dishonest answers.
-- **Question Wording**: Leading or unclear questions.
+Sources of Bias:
+- Undercoverage: Some groups left out.
+- Nonresponse: Selected individuals don’t respond.
+- Response Bias: Inaccurate or dishonest answers.
+- Question Wording: Leading or unclear questions.
 
-**Random Number Table** (Table B): Used for SRS selection in exams.
+Random Number Table (Table B): Used for SRS selection in exams.
 
 
 
 ### Chapter 9: Producing Data – Experiments
-**Observational Study**: Observes individuals without influence.  
-**Experiment**: Applies treatment to study cause-and-effect.  
-**Treatment**: Condition applied in an experiment.  
-**Experimental Units**: Subjects of the experiment.  
-**Factor**: Explanatory variable.  
-**Level**: Specific value of a factor.  
-**Response Variable**: Outcome measured.
+Observational Study: Observes individuals without influence.  
+Experiment: Applies treatment to study cause-and-effect.  
+Treatment: Condition applied in an experiment.  
+Experimental Units: Subjects of the experiment.  
+Factor: Explanatory variable.  
+Level: Specific value of a factor.  
+Response Variable: Outcome measured.
 
-**Principles of Experimental Design**:
-- **Control**: Reduce variability.
-- **Randomization**: Use chance.
-- **Replication**: Use enough subjects to detect effects.
+Principles of Experimental Design:
+- Control: Reduce variability.
+- Randomization: Use chance.
+- Replication: Use enough subjects to detect effects.
 
-**Designs**:
-- **Completely Randomized**: Random assignment to groups.
-- **Randomized Comparative**: Compare treatments.
-- **Matched Pairs**: Each subject gets both treatments.
-- **Block Design**: Subjects grouped and randomized within blocks.
+Designs:
+- Completely Randomized: Random assignment to groups.
+- Randomized Comparative: Compare treatments.
+- Matched Pairs: Each subject gets both treatments.
+- Block Design: Subjects grouped and randomized within blocks.
 
-**Key Terms**:
-- **Placebo**: Dummy treatment.
-- **Placebo Effect**: Psychological impact of receiving treatment.
-- **Blinding**: Subject/experimenter unaware of treatment.
-- **Double-Blind**: Both unaware.
-- **Confounding**: When variables' effects can't be separated.
+Key Terms:
+- Placebo: Dummy treatment.
+- Placebo Effect: Psychological impact of receiving treatment.
+- Blinding: Subject/experimenter unaware of treatment.
+- Double-Blind: Both unaware.
+- Confounding: When variables' effects can't be separated.
 
 
 
 ### Chapter 12: Introducing Probability
-**Probability**: Likelihood of an event.  
-**Experiment**: Process with outcomes.  
-**Sample Space (S)**: All possible outcomes.  
-**Event**: Subset of outcomes.  
-**Random Phenomenon**: Uncertain outcome, predictable pattern.  
-**Law of Large Numbers**: With more trials, observed frequency approaches probability.
+Probability: Likelihood of an event.  
+Experiment: Process with outcomes.  
+Sample Space (S): All possible outcomes.  
+Event: Subset of outcomes.  
+Random Phenomenon: Uncertain outcome, predictable pattern.  
+Law of Large Numbers: With more trials, observed frequency approaches probability.
 
-**Rules of Probability**:
+Rules of Probability:
 - 0 ≤ P ≤ 1
 - P(Sample Space) = 1
-- **Complement Rule**: P(Aᶜ) = 1 - P(A)
-- **Addition Rule (Disjoint)**: P(A ∪ B) = P(A) + P(B)
-- **General Addition Rule**: P(A ∪ B) = P(A) + P(B) - P(A ∩ B)
-- **Multiplication Rule (Independent)**: P(A ∩ B) = P(A) × P(B)
-- **Conditional Probability**: P(A | B) = P(A ∩ B) / P(B)
+- Complement Rule: P(Aᶜ) = 1 - P(A)
+- Addition Rule (Disjoint): P(A ∪ B) = P(A) + P(B)
+- General Addition Rule: P(A ∪ B) = P(A) + P(B) - P(A ∩ B)
+- Multiplication Rule (Independent): P(A ∩ B) = P(A) × P(B)
+- Conditional Probability: P(A | B) = P(A ∩ B) / P(B)
 
-**Discrete vs Continuous**:
-- **Discrete**: Countable values (e.g., # of emails).
-- **Continuous**: Measurable range (e.g., time, height).
+Discrete vs Continuous:
+- Discrete: Countable values (e.g., # of emails).
+- Continuous: Measurable range (e.g., time, height).
 
 
 
 ### Chapter 13: General Rules of Probability
-**General Addition Rule**: For overlapping events.  
-**Conditional Probability**: Probability of A given B.  
-**General Multiplication Rule**: For dependent events.  
-**Independence**: One event doesn’t affect the other.
+General Addition Rule: For overlapping events.  
+Conditional Probability: Probability of A given B.  
+General Multiplication Rule: For dependent events.  
+Independence: One event doesn’t affect the other.
 
-**Key Formulas**:
-- **P(A ∪ B)** = P(A) + P(B) - P(A ∩ B)
-- **P(A | B)** = P(A ∩ B) / P(B)
-- **P(A ∩ B)** = P(A) × P(B|A)
-- **If Independent**: P(A ∩ B) = P(A) × P(B)
-- **Bayes' Rule**: P(A|B) = (P(B|A)×P(A)) / P(B)
+Key Formulas:
+- P(A ∪ B) = P(A) + P(B) - P(A ∩ B)
+- P(A | B) = P(A ∩ B) / P(B)
+- P(A ∩ B) = P(A) × P(B|A)
+- If Independent: P(A ∩ B) = P(A) × P(B)
+- Bayes' Rule: P(A|B) = (P(B|A)×P(A)) / P(B)
 
-**Tree Diagrams**: Visualize probability of compound events.
+Tree Diagrams: Visualize probability of compound events.
 
 
 
 ### Chapter 15: Sampling Distributions
-**Parameter**: Describes population (μ, σ).  
-**Statistic**: Describes sample (x̄).  
-**Sampling Distribution**: Distribution of a statistic over all samples.
+Parameter: Describes population (μ, σ).  
+Statistic: Describes sample (x̄).  
+Sampling Distribution: Distribution of a statistic over all samples.
 
-**Central Limit Theorem (CLT)**: When n ≥ 30, x̄ ~ Normal regardless of population distribution.
+Central Limit Theorem (CLT): When n ≥ 30, x̄ ~ Normal regardless of population distribution.
 
-**Formulas**:
+Formulas:
 - Mean of x̄: μₓ̄ = μ
 - SD of x̄: σₓ̄ = σ / √n
-- **Z-score**: z = (x̄ - μ) / (σ / √n)
+- Z-score: z = (x̄ - μ) / (σ / √n)
 
-**Takeaways**:
+Takeaways:
 - Larger n → smaller spread
 - CLT justifies using Normal models in inference
 
 
 
 ### Chapter 16: Confidence Intervals
-**Confidence Interval (CI)**: Range likely to contain true population parameter.  
-**Confidence Level**: Success rate of the method (e.g., 95%).  
-**Margin of Error (ME)**: Max likely error.
+Confidence Interval (CI): Range likely to contain true population parameter.  
+Confidence Level: Success rate of the method (e.g., 95%).  
+Margin of Error (ME): Max likely error.
 
-**CI Formula**:
-- x̄ ± z* × (σ / √n)
+CI Formula:
+- x̄ ± z × (σ / √n)
 
-**Common z* Values**:
+Common z Values:
 - 90%: 1.645
 - 95%: 1.960
 - 99%: 2.576
 
-**To reduce ME**:
+To reduce ME:
 - Increase n
 - Decrease σ
 - Lower confidence level
 
-**Conditions**:
+Conditions:
 - SRS
 - Normal population or n ≥ 30
 - σ known
@@ -139,30 +139,30 @@
 
 
 ### Chapter 32: Resampling – Bootstrap and Permutation Tests
-**Resampling**: Use sample data to simulate many hypothetical repetitions.
+Resampling: Use sample data to simulate many hypothetical repetitions.
 
-**Bootstrap**:
+Bootstrap:
 - Draw samples with replacement
 - Calculate statistic (e.g., mean)
 - Use percentiles to form CI
-- **90% CI** → 5th to 95th percentiles
+- 90% CI → 5th to 95th percentiles
 
-**Permutation Test**:
+Permutation Test:
 - Shuffle labels
 - Use distribution of shuffled statistics to test H₀
 
-**When to Use**:
+When to Use:
 - Bootstrap: Estimating confidence intervals
 - Permutation: Hypothesis testing when traditional assumptions fail
 
-**Comparison**
+Comparison
 
 | Method      | CI  | Hypothesis Test | Assumes Normality |
 | ----------- | --- | --------------- | ----------------- |
 | Bootstrap   | ✅   | ❌               | ❌                 |
 | Permutation | ❌   | ✅               | ❌                 |
 
-**Python Example**:
+Python Example:
 ```python
 import numpy as np
 from scipy.stats import norm
