@@ -1,0 +1,1 @@
+![[Drawing 2025-04-22 19.43.10.excalidraw]]
