@@ -11,28 +11,17 @@
             "id": "54d4f8a698425244",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "DataScience/Exam/Drawing 2025-04-22 19.43.10.excalidraw.md"
+                "file": "DataScience/Assignment 3/Assignment 3.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-04-22 19.43.10.excalidraw"
-            }
-          },
-          {
-            "id": "26a2a91bf25a76bc",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.10"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.10"
+              "icon": "lucide-file",
+              "title": "Assignment 3"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,21 +88,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataScience/Exam/Drawing 2025-04-22 19.43.10.excalidraw.md",
+                "file": "DataScience/Assignment 3/Assignment 3.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Drawing 2025-04-22 19.43.10.excalidraw"
+              "title": "Outline of Assignment 3"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "16fb05cb165f378c",
@@ -200,10 +188,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "44988a079c2b8650",
+  "active": "938004a51dc2fa10",
   "lastOpenFiles": [
-    "Pasted Image 20250423023138_231.png",
     "DataScience/Exam/Drawing 2025-04-22 19.43.10.excalidraw.md",
+    "Pasted Image 20250423023138_231.png",
     "Pasted Image 20250423023210_171.png",
     "DataScience/Exam/Exam Notes.md",
     "Pasted Image 20250423010830_114.png",
