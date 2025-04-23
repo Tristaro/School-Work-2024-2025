@@ -25,12 +25,14 @@
             "id": "54d4f8a698425244",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "DataScience/Drawing 2025-04-22 19.43.10.excalidraw.md"
+                "file": "DataScience/test.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-04-22 19.43.10.excalidraw"
+              "icon": "lucide-file",
+              "title": "test"
             }
           }
         ],
@@ -101,21 +103,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataScience/Drawing 2025-04-22 19.43.10.excalidraw.md",
+                "file": "DataScience/test.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Drawing 2025-04-22 19.43.10.excalidraw"
+              "title": "Outline of test"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "16fb05cb165f378c",
@@ -206,6 +207,7 @@
   "active": "54d4f8a698425244",
   "lastOpenFiles": [
     "DataScience/Drawing 2025-04-22 19.43.10.excalidraw.md",
+    "DataScience/test.md",
     "Pasted Image 20250422194553_262.png",
     "MediaCom/Test.md",
     "DataScience/Untitled.canvas",
