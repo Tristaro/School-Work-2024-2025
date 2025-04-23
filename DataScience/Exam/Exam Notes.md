@@ -89,7 +89,7 @@
 - **P(A | B)** = P(A ∩ B) / P(B)
 - **P(A ∩ B)** = P(A) × P(B|A)
 - **If Independent**: P(A ∩ B) = P(A) × P(B)
-- **Bayes' Rule**: P(A|B) = [P(B|A)×P(A)] / P(B)
+- **Bayes' Rule**: P(A|B) = (P(B|A)×P(A)) / P(B)
 
 **Tree Diagrams**: Visualize probability of compound events.
 
